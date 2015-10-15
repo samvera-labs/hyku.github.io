@@ -1,0 +1,40 @@
+---
+layout: landing-page
+---
+
+		<!-- One -->
+			<section id="about" class="wrapper style2">
+				<header class="major">
+					<h2>About</h2>				
+				</header>
+				<div class="container">
+					<div class="row">
+						<div class="12u">
+							<section>
+								<p>The <a href="http://dp.la/">Digital Public Library of America</a> (DPLA), <a href="https://www.stanford.edu/">Stanford University</a> and <a href="http://www.duraspace.org/">DuraSpace</a> are partnering to extend the existing Hydra project codebase and its vibrant and growing community to build, bundle, and promote a feature-rich, robust, flexible digital repository that is easy to install, configure, and maintain.</p>
+								<p>This next-generation repository solution -- “Hydra-in-a-Box” -- will work for institutions large and small, incorporating the capabilities and affordances to support networked resources and services in a shared, sustainable, national platform. The overall intent is to develop a digital collections platform that is not just “on the web,” but “of the web.”</p>
+								<p>With funding from the <a href="http://www.imls.gov/">Institute of Museum and Library Services</a>, the 30-month collaborative project <a href="http://dp.la/info/2015/04/15/far-reaching-hydra-in-a-box-joint-initiative-funded-by-imls/">launched in May 2015</a> and is currently in the Product Design phase.</p>
+							</section>
+						</div>
+				</div>
+			</section>
+			<section id="partners" class="wrapper style1">
+				<header class="major">
+					<h2>Project Partners</h2>
+				</header>
+				<div class="container">
+					<div class="row">
+						{% for partner in site.data.partners %}
+						{% if partner.display_large %}
+						<div class="6u">
+							<section class="special box">
+								<a href="{{ partner.url }}"><img src="{{ partner.logo }}" alt="{{ partner.name}} logo" />
+							<h3>{{ partner.name }}</h3></a>
+							{% if partner.blurb %}<p>{{ partner.blurb }}</p>{% endif %}
+							</section>
+						</div>
+						{% endif %}
+						{% endfor %}
+					</div>
+				</div>
+			</section>

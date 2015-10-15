@@ -1,0 +1,17 @@
+- title: Blog
+  url: blog.html
+
+- title: Presentations
+  url: presentations.html
+
+- title: Wiki
+  url: https://wiki.duraspace.org/display/hydra/Hydra+in+a+Box
+  external: true
+
+- title: Mailing List
+  url: https://groups.google.com/group/hybox-info
+  external: true
+
+- title: Contact Us
+  url: mailto:hybox-contact@googlegroups.com
+  external: true

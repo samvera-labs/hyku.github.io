@@ -1,0 +1,24 @@
+- name: Digital Public Library of America
+  url: http://dp.la/
+  logo: images/dpla_logo.jpg
+  display_large: true
+
+- name: Stanford University
+  url: http://www.stanford.edu/
+  logo: images/Stanford_logo.png
+  display_large: true
+
+- name: DuraSpace
+  url: http://www.duraspace.org/
+  logo: images/DuraSpace_logo.png
+  display_large: true
+
+- name: Institute of Museum and Library Services
+  url: http://www.imls.gov/
+  logo: images/imls_logo_strike.png
+  display_large: true
+  blurb: Project funder
+
+- name: Hydra Project
+  url: http://www.projecthydra.org/
+  display_large: false
