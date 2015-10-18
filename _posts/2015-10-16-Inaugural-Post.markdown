@@ -9,5 +9,7 @@ If you missed [Hydra Connect 2015](https://wiki.duraspace.org/display/hydra/Hydr
 
 Later in the same plenary session, Mike Giarlo and Jon Stroop delivered a [presentation on the Portland Common Data Model](http://www.slideshare.net/jpstroop/a-more-worthwhile-sufia-now-with-pcdm), better known as PCDM, one of the biggest developments in the HydraSphere this year and one that is fundamental to HyBox. These two presentations served as terrific launching pads for the many in-depth breakout discussions that followed in the rest of the week, discussions that are relevant to HyBox and other developments in the Hydra community generally. It is exciting to see Hydra as vibrant as ever and the HyBox project will be better for it!
 
+## Field Notes
+
 
 
