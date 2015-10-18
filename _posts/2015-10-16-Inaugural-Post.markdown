@@ -9,7 +9,14 @@ If you missed [Hydra Connect 2015](https://wiki.duraspace.org/display/hydra/Hydr
 
 Later in the same plenary session, Mike Giarlo and Jon Stroop delivered a [presentation on the Portland Common Data Model](http://www.slideshare.net/jpstroop/a-more-worthwhile-sufia-now-with-pcdm), better known as PCDM, one of the biggest developments in the HydraSphere this year and one that is fundamental to HyBox. These two presentations served as terrific launching pads for the many in-depth breakout discussions that followed in the rest of the week, discussions that are relevant to HyBox and other developments in the Hydra community generally. It is exciting to see Hydra as vibrant as ever and the HyBox project will be better for it!
 
-## Field Notes
+### Field Notes
+The current issue of DLib Magazine features the [article by Ayla Stein and Santi Thompson](http://www.dlib.org/dlib/september15/stein/09stein.html) about their research on repository migrations. 
+We’ve been waiting for the full publication ever since Open Repositories conference in Indianapolis earlier this year when Stein and Thompson first presented a preview of their research, the first formal study of its kind. The article, “Taking Control: Identifying Motivations for Migrating Library Digital Asset Management Systems”, should be of interest to anyone involved in the management of digital collections using a repository system or service.  
 
+Santi and Thompson conducted a survey focused on “"identifying libraries' motivations for transitioning from one digital asset management system (DAMS) to another, in order to provide access to primary source research materials." The article describes plenty of noteworthy findings; some of the key takeaways are:
+-	“An overarching need for self-autonomy and control drive organizations to migrate from one DAMS to another”, exemplified by the general trend away from proprietary solutions in favor or open source options
+-	Research organizations are looking to simpifly and consolidate their system portfolio and at the same time support increasingly diverse collections with a variety of file formats and content types, both simple and complex objects, multiple metadata schema for “richer and more comprehensive metadata capability”
+- Scalability, extensibility, and customizability are all key factors when selecting a new DAMS system. 
 
+### HyBox on the Road
 
