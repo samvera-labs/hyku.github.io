@@ -11,11 +11,11 @@ Later in the same plenary session, Mike Giarlo and Jon Stroop delivered a [prese
 
 ### Field Notes
 The current issue of DLib Magazine features the [article by Ayla Stein and Santi Thompson](http://www.dlib.org/dlib/september15/stein/09stein.html) about their research on repository migrations. 
-We’ve been waiting for the full publication ever since Open Repositories conference in Indianapolis earlier this year when Stein and Thompson first presented a preview of their research, the first formal study of its kind. The article, “Taking Control: Identifying Motivations for Migrating Library Digital Asset Management Systems”, should be of interest to anyone involved in the management of digital collections using a repository system or service.  
+We’ve been waiting for the full publication ever since the Open Repositories conference in Indianapolis earlier this year when Stein and Thompson presented a preview of their research, the first formal study of its kind. The article, “Taking Control: Identifying Motivations for Migrating Library Digital Asset Management Systems”, should be of interest to anyone involved in the management of digital collections using a repository system or service.   
 
-Santi and Thompson conducted a survey focused on “"identifying libraries' motivations for transitioning from one digital asset management system (DAMS) to another, in order to provide access to primary source research materials." The article describes plenty of noteworthy findings; some of the key takeaways are:
--	“An overarching need for self-autonomy and control drive organizations to migrate from one DAMS to another”, exemplified by the general trend away from proprietary solutions in favor or open source options
--	Research organizations are looking to simpifly and consolidate their system portfolio and at the same time support increasingly diverse collections with a variety of file formats and content types, both simple and complex objects, multiple metadata schema for “richer and more comprehensive metadata capability”
+Santi and Thompson had conducted a survey focused on “identifying libraries' motivations for transitioning from one digital asset management system (DAMS) to another, in order to provide access to primary source research materials." The article describes plenty of noteworthy findings; some of the key takeaways are:
+-	“An overarching need for self-autonomy and control drive organizations to migrate from one DAMS to another”, exemplified by a general trend away from proprietary solutions in favor or open source options
+-	Research organizations are looking to simplify and consolidate their system portfolio while supporting increasingly diverse collections with a variety of file formats and content types, simple and complex objects, and multiple metadata schema for “richer and more comprehensive metadata capability”
 - Scalability, extensibility, and customizability are all key factors when selecting a new DAMS system. 
 
 ### HyBox on the Road
