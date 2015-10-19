@@ -17,7 +17,8 @@ Santi and Thompson had conducted a survey focused on “identifying libraries' m
 - “An overarching need for self-autonomy and control drive organizations to migrate from one DAMS to another”, exemplified by a general trend away from proprietary solutions in favor of open source options;
 - Research organizations are looking to simplify and consolidate their system portfolio while supporting increasingly diverse collections with a variety of file formats and content types, simple and complex objects, and multiple metadata schema for “richer and more comprehensive metadata capability”
 - Scalability, extensibility, and customizability are key factors when selecting a new DAMS system.
-These findings are consistent with what the HyBox team is learning in the course of our environmental scan. 
+
+These findings are (not surprisingly) consistent with what the HyBox team is learning in the course of our environmental scan. 
 
 #### Upcoming Presentations
 Going to the [2015 DLF Forum in Vancouver](http://www.diglib.org/forums/2015forum/)? Be sure to attend the project update presentation by Mark Matienzo, Tom Cramer, and Jonathan Markow on Tuesday afternoon. At almost exactly the same time, Hannah Frost will be representing the Hydra community on a [panel about digital asset management systems](http://internet-librarian.infotoday.com/2015/Sessions/D203-Digital-Asset-Management-Systems-8879.aspx) at the Internet Librarian 2015 conference in Monterey, California. If you will be there, please introduce yourself and say hello!
