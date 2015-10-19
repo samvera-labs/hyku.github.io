@@ -14,9 +14,9 @@ Later in the same plenary session, Mike Giarlo and Jon Stroop delivered a [prese
 The current issue of DLib Magazine features the [article by Ayla Stein and Santi Thompson](http://www.dlib.org/dlib/september15/stein/09stein.html) about their research on repository migrations. We’ve been waiting for the full publication ever since the Open Repositories conference in Indianapolis earlier this year when Stein and Thompson presented a preview of their research, the first formal study on the topic. The article, “Taking Control: Identifying Motivations for Migrating Library Digital Asset Management Systems”, should be of interest to anyone involved in the management of digital collections using a repository system or service, especially if a system migration is a possibility.
 
 Santi and Thompson had conducted a survey focused on “identifying libraries' motivations for transitioning from one digital asset management system (DAMS) to another, in order to provide access to primary source research materials." The article describes plenty of noteworthy findings; some of the key takeaways are:
-- “An overarching need for self-autonomy and control drive organizations to migrate from one DAMS to another”, exemplified by a general trend away from proprietary solutions in favor of open source options;
-- Research organizations are looking to simplify and consolidate their system portfolio while supporting increasingly diverse collections with a variety of file formats and content types, simple and complex objects, and multiple metadata schema for “richer and more comprehensive metadata capability”
-- Scalability, extensibility, and customizability are key factors when selecting a new DAMS system.
+-“An overarching need for self-autonomy and control drive organizations to migrate from one DAMS to another”, exemplified by a general trend away from proprietary solutions in favor of open source options;
+-Research organizations are looking to simplify and consolidate their system portfolio while supporting increasingly diverse collections with a variety of file formats and content types, simple and complex objects, and multiple metadata schema for “richer and more comprehensive metadata capability”
+-Scalability, extensibility, and customizability are key factors when selecting a new DAMS system.
 
 These findings are (not surprisingly) consistent with what the HyBox team is learning in the course of our environmental scan. 
 
