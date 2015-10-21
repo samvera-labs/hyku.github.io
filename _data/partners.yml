@@ -21,4 +21,5 @@
 
 - name: Hydra Project
   url: http://www.projecthydra.org/
-  display_large: false
+  logo: images/hydra_logo.png
+  display_large: true
