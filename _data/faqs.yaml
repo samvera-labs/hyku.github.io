@@ -1,0 +1,52 @@
+- question: >-
+    What is the project timeline?
+  answer: >-
+    The Design Phase, now underway, is scheduled to complete in March 2016. Infrastructure and technical exploration is also now underway. These two concurrent phases will converge as the requirements are finalized in winter 2016. Formal development is expected to begin in April 2016.  For more detail, see this visual timeline for August 2015 - March 2016 <img src="/images/HyBox_design_process_tasks_timeline_2015-09-18.png" width="75%"/>.
+- question: >-
+    What kinds or sizes of institutions is Hydra-in-a-Box intended for? Can I use Hydra-in-a-Box if my institution has minimal IT staff with no skills in Ruby programming?
+  answer: >-
+    Hydra-in-a-Box will be useful to any institution managing collections of digital assets, particularly libraries, archives, museums, and historical societies with collections of cultural heritage materials. We believe, and IMLS supports us in this belief, that all institutions should have access to the benefits of Hydra without needing to hire and retain Ruby developers. Our goal is to produce an application that is easy to install and easy to maintain over time, and to provide software that is compelling to hosted service providers.  In these ways, Hydra-in-a-Box will be a solution for any institution with digital collections, particularly those with limited technical resources and infrastructure, that seeks a next-generation digital repository.
+- question: >-
+    Who will provide hosting services for Hydra-in-a-Box?
+  answer: >-
+    DuraSpace will provide hosting services at launch time, and we’ve been speaking with other hosting service providers about their needs and requirements. As hosted service options become clear, we will definitely let everyone know!
+- question: >-
+    I am interested in starting to use Hydra. If I start now, will I be able to migrate to Hydra-in-a-Box when it is ready? Or should I hold off and wait?
+  answer: >-
+    Hydra-in-a-Box will be built using Sufia -- a Hydra community-managed software component -- as a starting point. If you are ready to start with Hydra today with the intent or possibility of moving to Hydra-in-a-Box, then you should start with Sufia. There will be a clear migration path to the Hydra-in-a-Box application from Sufia. <a href="https://github.com/projecthydra/sufia/blob/master/README.md">Read more about Sufia here</a>.<br/><br/>If you run a Sufia-based application that has local customizations, migration to Hydra-in-a-Box will likely be more complicated. The more customization, the more complex your migration will be.
+- question: >-
+    What content types will Hydra-in-a-Box support?
+  answer: >-
+    By basing Hydra-in-a-Box on Sufia, which provides a simple and broad data model for works consisting of files, we will be able to provide general support for any content or file formats you might have. We may also provide richer content type-specific behaviors for a limited number of types at or after our initial launch, and are actively gathering the requirements necessary to specify these now. When the Design Phase is complete and the scope of content-type support for early Hydra-in-a-Box releases is defined, we will post this information.
+- question: >-
+    Will Hydra-in-a-Box support newspaper content?
+  answer: >-
+    We’re more than half-way through the project’s design phase, which has been focused on gathering requirements from a diverse and large set of potential users. While <a href="http://chroniclingamerica.loc.gov/newspapers/">Chronicling America</a> offers unprecedented access to a large aggregation of digitized newspapers, we have learned through our environmental scan that better support for newspaper content is a gap in the landscape of digital repository options. We have not yet determined exactly which content types will be supported when we first launch Hydra-in-a-Box, though we will likely support a general object model at minimum (based on PCDM) which will support multi-file, hierarchical works (writ large) and collections. Newspaper collections can be modeled using this general support. We’ll continue to consider the requirements for newspaper-specific content to determine when and if we can do a more tailored rollout of newspaper functionality.
+- question: >-
+    Will IIIF be supported by Hydra-in-a-Box?
+  answer: >-
+    Support for <a href="http://iiif.io/">IIIF</a> in Hydra-in-a-Box is of extreme interest to the project team and many of the potential users we have been speaking with over the course of the Design Phase. In many respects, IIIF is a natural fit given its synergy with Hydra. The team is actively working to determine requirements and set priorities for content type. The outcome of this process will influence our direction with respect to IIIF. When we have a more definitive answer, we will be sure to let the community know.
+- question: >-
+    What descriptive metadata standards will Hydra-in-a-Box support? Must my metadata be expressed in RDF?
+  answer: >-
+    We have been gathering lots of input on metadata from a diverse set of potential users during the project's Design Phase. We have not yet determined the metadata requirements to be implemented when we first launch Hydra-in-a-Box, though it is likely that we will support the <a href="http://dp.la/info/2015/03/05/dpla-map-version-4-0/">DPLA MAP v4</a> as default descriptive metadata for easier integration with DPLA hubs. As for crosswalking your metadata (which might be in XML) into a format that Hydra-in-a-Box will use (such as RDF), we're thinking about that, too, and when we have answers, we'll share them. In the meantime, we’d love to hear from you. Please share your suggestions using in our <a href="https://docs.google.com/forms/d/16BiWACwtD4AARGe6P0IaMQl5rOeWDLdi6g6-6V3YGto/viewform">Ideas form</a>. You may also <a href="mailto:hybox-contact@googlegroups.com">email us</a> with any questions or to talk to us in more detail about crosswalking/mapping strategies.
+- question: >-
+    How can I learn more about the Portland Common Data Model (PCDM)?
+  answer: >-
+    If you want to understand PCDM, a good starting point is the <a href="https://github.com/duraspace/pcdm/wiki">PCDM wiki</a> (and if you find this document lacking or are otherwise looking for information and not finding it, please send us this important feedback.) The core ontology is <a href="http://pcdm.org/2015/09/28/models">hosted here</a>. As extension vocabularies are developed, they are hosted in the <a href="https://github.com/duraspace/pcdm/tree/master/pcdm-ext">PCDM Github repo</a>. PCDM is, in large measure, a specialized version of OAI-ORE aggregation. With one exception, the object properties and classes all subclass OAI-ORE properties and classes. It has roots in non-Fedora systems, too, so the model can initially be approached agnostic to repository or platform.
+- question: >-
+    How customizable and configurable will Hydra-in-a-Box be?
+  answer: >-
+    The project team is working through this issue now as we analyze community input and consider the technical implications. At this point, we envision that hosted Hydra-in-a-Box instances will likely provide little customization beyond basic user interface tweaks, such as logos, colors, fonts, stylesheets (though this is of course up to the hosting provider).<br/><br/>Locally deployed Hydra-in-a-Box instances will be, like any locally hosted open-source software, completely customizable if you have the resources and inclination to do so, and we anticipate that locally hosted instances may wish to customize the user interface, authentication and authorization to integrate with institutional identity management systems, and metadata support. The Hydra-in-a-Box team will be happy to consult with implementers to advise on which areas of customization are safe to make without complicating the upgrade path.<br/><br/>At launch time, Hydra-in-a-Box will provide the ability to configure a number of features such as Google Analytics support, audiovisual transcoding, persistent identifier characteristics, the contact form, support for uploading files via cloud providers, integration with Zotero, deposit workflows, and more. Additional features will become configurable over time according to the priorities identified by potential implementers in the project's Design Phase; our primary goal for the first release of Hydra-in-a-Box is for it to be turnkey, i.e., for it to be easy to install and easy to maintain.
+- question: >-
+    How can I stay informed of Hydra-in-a-Box project updates?
+  answer: >-
+    Join the <a href="https://groups.google.com/forum/#!forum/hybox-info">HyBox Info Google Group</a> and follow <a href="https://twitter.com/HydraInABox">@HydraInABox</a> on Twitter for all the latest project news. General announcements and monthly updates are posted to the <a href="https://groups.google.com/forum/#!forum/hydra-community">Hydra Community Google Group</a>; subscription to this group is open to all. When formal development begins, technical discussions will occur as needed on the <a href="https://groups.google.com/forum/#!forum/hydra-tech">Hydra Tech Google Group</a>; subscription to this group is also open to all.
+- question: >-
+    How can I get involved in the Hydra-in-a-Box project?
+  answer: >-
+    Let’s talk! <a href="mailto:hybox-contact@googlegroups.com">Contact the HyBox project team</a>.
+- question: >-
+    I have an idea for a feature or functionality that Hydra-in-a-Box should support. Do you want to hear it?
+  answer: >-
+    Yes, we do! <a href="https://docs.google.com/forms/d/16BiWACwtD4AARGe6P0IaMQl5rOeWDLdi6g6-6V3YGto/viewform">Here is a form</a> you can use to submit your ideas. If you have a GitHub account, feel free to submit your ideas directly in the <a href="https://github.com/projecthydra-labs/hybox-ideas/issues/new">HyBox Ideas repo</a>.

@@ -1,0 +1,11 @@
+---
+layout: page
+title: FAQ
+---
+
+<dl>
+    {% for faq in site.data.faqs %}
+    <dt style="margin-top: 25px"><strong>{{ faq.question }}</strong></dt>
+    <dd style="margin-top: 5px">{{ faq.answer }}</dd>
+    {% endfor %}
+</dl>
