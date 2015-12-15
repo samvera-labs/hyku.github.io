@@ -4,6 +4,9 @@
 - title: Presentations
   url: presentations.html
 
+- title: FAQ
+  url: faq.html
+
 - title: Wiki
   url: https://wiki.duraspace.org/display/hydra/Hydra+in+a+Box
   external: true
