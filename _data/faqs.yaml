@@ -1,8 +1,7 @@
 - question: >-
     What is the project timeline?
   answer: >-
-    The Design Phase, now underway, is scheduled to complete in March 2016. Infrastructure and technical exploration is also now underway. These two concurrent phases will converge as the requirements are finalized in winter 2016. Formal development is expected to begin in April 2016.  For more detail, see this visual timeline for August 2015 - March 2016 
-    <img src="/images/HyBox_design_process_tasks_timeline_2015-09-18.png" width="75%"/>.
+    The Design Phase, now underway, is scheduled to complete in March 2016. Infrastructure and technical exploration is also now underway. These two concurrent phases will converge as the requirements are finalized in winter 2016. Formal development is expected to begin in April 2016. For more detail, see this visual timeline for August 2015 - March 2016:<br/><img src="/images/HyBox_design_process_tasks_timeline_2015-09-18.png" width="75%"/>.
 - question: >-
     What kinds or sizes of institutions is Hydra-in-a-Box intended for? Can I use Hydra-in-a-Box if my institution has minimal IT staff with no skills in Ruby programming?
   answer: >-
