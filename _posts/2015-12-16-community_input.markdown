@@ -9,7 +9,7 @@ The HyBox team is busy! Here’s an update on where we are with the project:
 First of all, yesterday Tom, Mark, and Debra presented a briefing on Hydra-in-a-Box at the CNI Fall 2015 membership meeting. [These are the freshest slides](https://osf.io/h4ru8/) about the project, background, goals, overall status, etc. A good read for anyone who wants to learn more.
 
 Meetings like CNI are an ideal way to engage with the community, to hear how our project can meet the needs, and to see how it fits in with other efforts underway. The team had great community engagement at the DLF Forum in Vancouver. Our presentation spawned good questions from the audience, all of which are now answered on our FAQ page. Check out this visualization of the #DLFforum2015 Twitter feed captured by our Stanford colleague @jaheppler on October 27:
-<img src="\images\DLFforum2015Tagcloud.jpg">
+<img src="images\DLFforum2015Tagcloud.jpg">
 
 The product design team is deeply focused right now on content analysis of all the information we have gathered through the community survey and user interviews over the past few months. Here are some stats about our data set:
 - gathered in 23 individual interviews and 4 focus groups
