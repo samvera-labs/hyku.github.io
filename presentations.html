@@ -3,11 +3,14 @@ layout: page
 title: Presentations
 ---
 
-
 <h3>Upcoming Presentations</h3>
 <ul>
     {% for presentation in site.data.upcoming_presentations %}
+    {% if presentation.date %}
     <li>{{ presentation.date | date: "%b %-d, %Y" }}. {{ presentation.presenters | join: "; " "}}. "{% if presentation.url %}<a href="{{ presentation.url }}">{% endif %}{{ presentation.title }}.{% if presentation.url %}</a>{% endif %}" {{ presentation.event }}{% if presentation.location %} ({{presentation.location}}){% endif %}.</li>
+    {% else %}
+    <li>{{ presentation.title }}</li>
+    {% endif %}
     {% endfor %}
 </ul>
 
