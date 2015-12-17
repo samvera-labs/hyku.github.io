@@ -12,6 +12,7 @@ Meetings like CNI are an ideal way to engage with the community, to hear how our
 <img src="/images/DLFforum2015Tagcloud.jpg">
 
 The product design team is deeply focused right now on content analysis of all the information we have gathered through the community survey and user interviews over the past few months. Here are some stats about our data set:
+
 * gathered in 23 individual interviews and 4 focus groups
 * by video conference and face-to-face meetings (at Hydra Connect, DLF Forum, and the Mid-Atlantic Fedora Users Group)
 * interviewed 62 people at 48 institutions and 3 service providers from 19 U.S. states and 2 Canadian provinces
