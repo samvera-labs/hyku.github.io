@@ -29,4 +29,4 @@ Look out for more information about content types and Hydra-in-a-Box to be poste
 
 
 #### Upcoming Presentations
-Going to DPLAfest 2016 next month in Washington DC? Several members of the project team will be there. Please [come see Mark and Gretchen]( http://dp.la/info/get-involved/dplafest/april-2016/agenda/) give a presentation on April 14, and be sure to say hello and let us know about your interest in Hydra-in-a-Box!
+Going to DPLAfest 2016 next month in Washington DC? Several members of the project team will be there. Please [come see Mark, Hannah and Gretchen]( http://dp.la/info/get-involved/dplafest/april-2016/agenda/) give a presentation on April 14, and be sure to say hello and let us know about your interest in Hydra-in-a-Box!
