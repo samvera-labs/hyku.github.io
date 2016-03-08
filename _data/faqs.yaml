@@ -17,7 +17,7 @@
 - question: >-
     What content types will Hydra-in-a-Box support?
   answer: >-
-    By basing Hydra-in-a-Box on Sufia, which provides a simple and broad data model for works consisting of files, we will be able to provide general support for any content or file formats you might have. We also plan to provide richer content type-specific behaviors for image-based works, and are articulating the requirements for those types now. Support for additional content types will be considered as development progresses. Read the [March 2016 blog post](http://hydrainabox.projecthydra.org/2016/03/04/content_types_news.html) for more on this topic, and we will post more information about our content type analysis in due course.
+    By basing Hydra-in-a-Box on Sufia, which provides a simple and broad data model for works consisting of files, we will be able to provide general support for any content or file formats you might have. We also plan to provide richer content type-specific behaviors for image-based works, and are articulating the requirements for those types now. Support for additional content types will be considered as development progresses. Read the [March 2016 blog post](http://hydrainabox.projecthydra.org/2016/03/07/content_types_news.html) for more on this topic, and we will post more information about our content type analysis in due course.
 - question: >-
     What descriptive metadata standards will Hydra-in-a-Box support? Must my metadata be expressed in RDF?
   answer: >-
