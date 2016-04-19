@@ -1,9 +1,17 @@
-- title: Hydra in a Box - Building a Next-Generation Platform for Digital Collections
+- title: Designing Hydra-in-a-Box - What We Learned from the Repository Community
   presenters:
-    - Mark Matienzo
-    - Gretchen Gueguen
     - Hannah Frost
-  event: DPLAfest 2016
-  location: "Washington, DC"
-  date: 2016-04-14
-  url:  http://dp.la/info/get-involved/dplafest/april-2016/agenda/
+    - Gary Geisler
+  event: Open Repositories 2016
+  location: "Dublin, Ireland"
+  date: 2016-06-15
+  url:  https://www.conftool.com/or2016/index.php?page=browseSessions&form_session=115#paperID103
+- title: A Peek Inside the Box - Technology, Architecture, and Community Engagement to Tame the Hydra
+  presenters:
+    - Erin Fahy
+    - Mike Giarlo
+    - Mark Matienzo
+  event: Open Repositories 2016
+  location: "Dublin, Ireland"
+  date: 2016-06-15
+  url:  https://www.conftool.com/or2016/index.php?page=browseSessions&form_session=115#paperID41
