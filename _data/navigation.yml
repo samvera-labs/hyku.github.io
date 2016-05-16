@@ -1,14 +1,14 @@
 - title: Blog
   url: blog.html
 
-- title: Presentations
+- title: Presentations & Demos
   url: presentations.html
 
 - title: FAQ
   url: faq.html
 
 - title: Wiki
-  url: https://wiki.duraspace.org/display/hydra/Hydra+in+a+Box
+  url: https://wiki.duraspace.org/display/hydra/Hydra-in-a-Box
   external: true
 
 - title: Mailing List
