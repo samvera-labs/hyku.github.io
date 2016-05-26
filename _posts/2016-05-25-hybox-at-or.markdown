@@ -3,7 +3,7 @@ layout: post
 title: Find out What’s Inside Hydra-in-a-Box at Open Repositories 2016 - PCDM, Design, Emerging Architecture, Repository Tooling
 ---
 
-It’s only three weeks away! If you will attend the 11th Annual International Conference on Open Repositories (#OR2016), here are the sessions that will be of interest if you want to learn more about the Hydra-in-a-Box project.
+It’s only three weeks away! If you will attend the 11th Annual International Conference on Open Repositories (#OR2016Dub), here are the sessions that will be of interest if you want to learn more about the Hydra-in-a-Box project.
 
 #### Workshop: Modeling your Repository Objects with the Portland Common Data Model (PCDM)
 Monday, June 13, 1:30-3:30 PM; 4:00-6:00 PM
