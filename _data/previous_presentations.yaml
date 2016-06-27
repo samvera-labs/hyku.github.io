@@ -1,5 +1,22 @@
 - title: Hydra in a Box - Building a Next-Generation Platform for Digital Collections
   presenters:
+    - Hannah Frost
+    - Gary Geisler
+  event: Open Repositories 2016
+  location: "Dublin, Ireland"
+  date: 2016-06-15
+  url:  http://bit.ly/design-hydrainabox
+- title: A Peek Inside the Box - Technology, Architecture, and Community Engagement to Tame the Hydra
+  presenters:
+    - Erin Fahy
+    - Mike Giarlo
+    - Mark Matienzo
+  event: Open Repositories 2016
+  location: "Dublin, Ireland"
+  date: 2016-06-15
+  url:  http://bit.ly/peek-inside-the-box
+- title: Hydra in a Box - Building a Next-Generation Platform for Digital Collections
+  presenters:
     - Mark Matienzo
     - Gretchen Gueguen
     - Hannah Frost
