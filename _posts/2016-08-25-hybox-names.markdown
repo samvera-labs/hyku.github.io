@@ -1,87 +1,38 @@
-# Branding Considerations for Hydra-in-a-Box
+What’s in a name? The many facets of Hydra-in-a-Box
 
-We have at least five items for which we must consider branding and identity. For each one, we want to be sure we have an appropriate name and associated branding that strikes the right balance between being viewed as a distinct entity born of this project versus a part of the full ecosystem and especially the broader Hydra community, with code and functionality that will be embraced and supported by that project over the long-term. 
+Sometimes you need to work on something for a while before you figure out what its name should be. We’re at that stage now. The official name for the project, the one that went in on the grant proposal, describes the overarching objectives of the grant, but it’s anything but pithy: *Fostering a New National Library Network through a Community­-Based, Connected Repository System*. So what should we call what we’re making? (No really--we need your ideas. Read on!)
 
-1. **the project.** We’ve settled on using Hydra-in-a-Box or HyBox (shorthand, not generally used publicly) for the project. The project URL is currently [hydrainabox.org](http://hydrainabox.org), and resolves to [http://hydrainabox.projecthydra.org/](http://hydrainabox.projecthydra.org/)
+As we’ve moved through the first year of the project, it has become clear that our effort has many facets, and choosing (and using) the right names has helped differentiate the various strands. We have identified at least five distinct components for our effort, each with its own identity and branding considerations.
 
-Considerations: 
+1. **the project.** We’ve settled on using **Hydra-in-a-Box** or **HyBox** (for shorthand, and used with some reservation) for the project. The project URL is currently [hydrainabox.org](http://hydrainabox.org), and resolves to [http://hydrainabox.projecthydra.org/](http://hydrainabox.projecthydra.org/). While not all of the work revolves around Hydra (there are significant tie-ins specific to DPLA hubs and DPLA metadata--see below), this name captures one of the essential goals of the effort: to produce a turnkey repository product leveraging, and embraced by, the Hydra community. 
 
-    1. We need a name distinct from Hydra, but clearly and strongly related to Hydra.
+2. **code components.** Hydra’s technical architecture has many components and layers, and an explicit Hydra-in-a-Box goal is to contribute to the overall architecture and code ecosystem. Note that a site may choose to run these HyBox components but *not *run HyBox in its turnkey form, just as many sites now say they run "sufia-based repositories." Under the theory that a rising tide raises all ships, the project team’s focus has been to locate functionality in the right places within the Hydra stack, and *not *to create a product-specific code base where we can avoid it. Accordingly, we are **not** using HyBox or Hydra-in-a-Box as the name of code components, in order to encourage re-use in other projects, broad adoption, and code contribution & maintenance from other Hydra efforts.
 
-    2. For the branding of the project, we should strongly tie it to the Hydra community: ultimately this is the group of adopters and contributors who will give uptake, add coding cycles, and take on long-term maintenance. The more this project is viewed as a mainline Hydra community effort, the easier this will be. 
+Therefore, for new code produced by the Hydra-in-a-Box effort, we have first sought to locate it where it rightfully belongs in the stack (e.g., Sufia, an independent gem, or even Fedora). Our hope is that the work we’re doing is general and modular enough that other Hydra efforts can and will make use of our code components--e.g., it would be excellent for [the Avalon Media System](http://www.avalonmediasystem.org/) to make use of (and contribute back to!) our components when it needs similar functionality. 
 
-    3. Conclusion: **create a logo & identity that are strongly related to Hydra’s; do not overly differentiate it for the sake of being distinct. **
+3. **turnkey repository product,** locally managed. Building on what the Hydra community has learned working on Sufia to make it easy to install and maintain, we expect to provide a complete, configurable, turnkey product--more akin to Avalon, DSpace, or even ContentDM. We need a name for this product analogous to those systems, and with broad market appeal and strong branding identity. We have put a lot of thought into requirements for a good name: 
 
-2. **code components.** As Sufia is a wrapper to CurationConcerns, which wraps core Hydra gems, HyBox will be a wrapper on Sufia, and bring its own functionality in unique components that add HyBox-specific features. Note that a site may choose to run these HyBox components but *not *run HyBox in its turnkey form. Just as many sites now say they run "sufia-based repositories". Also, over the long-term (3-5 years), any code being produced by this project may be supplanted by newer code-bases and architectural approaches. (This is natural and good and likely inevitable.) 
+    * We want something clearly related to the Hydra project to leverage its brand, and to invite uptake and code contributions / maintenance. Further, we want adopters of the product to know it is part of the Hydra community effort, in order to provide an on-ramp for them to join / participate in the wider community effort. 
 
-Considerations**:**
+    * We want something clearly distinct from the Hydra community & repository / application framework. (Just calling it "Hydra" wouldn’t work.)
 
-    4. let’s come up with useful names that do a reasonable job of identifying the functionality they encompass. 
+    * Hydra-in-a-Box and HyBox both seem poor choices here: the former is clunky and overly long. The latter is perhaps too insider-y and lacks the natural power and mass-market appeal that a name like "Avalon" brings.
 
-    5. let’s come up with useful names for any project-born code components that might be broadly used that are different from the turnkey product and hosted service.
+    * Also, Hydra-in-a-Box implies the full functionality and flexibility of the Hydra technical framework is present in the product, but all nicely wrapped up in one package. This is not true, as we’ll be making opinionated selections, based on the community’s requirements, about functionality to include. As such, we’re looking for a name that connotes one is getting a particular flavor or profile of Hydra.
 
-        1. if the turnkey product and hosted service outlast the code component, this will reduce confusion and conflation
+    * We may want to pick up on the useful trend of picking a name related to or derived from "Hydra" in some way, but distinct. Hydrangea, Hypatia, Hydraulics, Hyperspace all fall into this pattern. 
 
-        2. if other Hydra sites use the code components, but not the turnkey product, this will reduce friction and confusion of reuse. (i.e., we should expect and hope Avalon to use HyBox componentry)
+    * We need to be sure to clear the obvious hurdles--no similar products with similar names, no unintentionally offensive meanings in other languages, available domain names, etc.
 
-        3. Penn State did this well with Sufia (the shared codebase with broad adoption) and ScholarSphere (the local app and PSU-specific instance).
+In short, we’re looking for a product name **that has strong branding potential, will have mass market appeal, and is distinct from but is easily related to Hydra. **
 
-    6. "Hydra-in-a-Box" is unsuitable as a code component name, due to length and uncertainty of hyphens. 
+For now, we have started by creating a new component that augments the Hydra stack with turnkey features. The application is, fittingly (we think), named *Lerna* after the lake where the mythological Hydra lived (special thanks to Rick Johnson at Notre Dame, the first person to suggest this name).  
 
-    7. HyBox might be OK as a technical label, but might only or best be used for any functionality relating to its bundling and deployment: the thing that puts it in the box, i.e.
+4. **hosted service. **One of the goals of the project is to produce a "cloud-ready" version of the repository product, so that sites can make use of the platform without having to install it locally. The project partners intend to pilot a hosted service next year to kickstart this process. (The cloud-ready components and configurations will also be open source, and a good number of other sites have been in touch about potentially running this for local consortia.) We have time and space to think about this name, and will get there next year.
 
-    8. Conclusion: **these names need to be determined now, as we begin development. These code components do not need and arguably should not have their own logos. If they do have a logo, something strongly derived from the Project Hydra logo and brand may be best.**
+5. **DPLA ****metadata aggregator product**. While a better and easy-to-install repository is a key component of the grant, it’s not the only one. The other major technical focus is to enhance DPLA’s metadata tooling to get more, better and richer metadata flowing among systems. This will elevate DPLA, its hubs, contributing member institutions, and users by raising the bar on discovery; it will also help any environment where metadata syndication, aggregation, and indexing is an essential component for improving discovery. This product is intended to build on [Krikri](https://dp.la/info/2015/02/11/dpla-releases-krikri-0-1-3/), a software component used to build DPLA’s metadata ingestion system. Because this will be a general-purpose tool, we expect this product to have its own name, branding, and identity (likely very strongly linked to DPLA).
 
-    9. Conclusion: **don’t use HyBox or Hydra-in-a-Box as the name of code components, in order to encourage re-use in other projects, broad adoption and code contribution/maintenance from other Hydra efforts.**
+So what is the take away? Most obviously, as we have thought about names, we have also learned more about what we’re doing; it’s not just building a repository product, but also general Hydra componentry, a hosted service, metadata tooling, and a project.  
 
-    10. Conclusion: **use different names for the code components and the deployed product / hosted service. **
+We also have learned that naming things--especially important things, and things that you love--can be hard. (This is not news to any product managers--or parents, for that matter.) Do you have a killer name for the repository product? If so, give us your idea(s)! We are gladly accepting suggestions (and inspiration) for the repository product’s name. Email [hybox-contact@googlegroups.com](mailto:hybox-contact@googlegroups.com) with any ideas. (Free t-shirts to any winning, or funny, submissions.) 
 
-3. **turnkey repository product,** locally installed. Unlike Sufia, we expect HyBox to provide a complete, turnkey product--like DSpace or ContentDM or even Avalon. We need a name for this product analogous to those systems.
-
-Considerations: 
-
-    11. We want something clearly related to the Hydra project to leverage the brand, and to invite uptake and code contributions / maintenance. Further, we want adopters of the product to know it is part of the Hydra community effort, in order to provide an onramp for them to join / participate in the wider community effort. 
-
-    12. We want something clearly distinct from the Hydra community & repository / application framework. (Just calling it "Hydra" wouldn’t work.)
-
-    13. Hydra-in-a-Box and HyBox both seem poor choices here: the former is clunky and overly long. The latter is too insider-y and lacks the natural power and mass-market appeal that a name like "Avalon" brings.
-
-    14. Also, Hydra-in-a-Box implies the full functionality and flexibility of Hydra is present in the product, but all nicely wrapped up in one package. This is not true, as we’ll be making opinionated selections about functionality to include. A name that connotes one is only getting a particular flavor or profile of Hydra seems better to me. 
-
-    15. For this component, we may want to pick up on the useful trend of picking a name related to or derived from "Hydra" in some way, but distinct. Hydrangea, Hypatia, Hydraulics, Hyperspace (a potential DSpace replacement name?) all fall into this pattern. 
-
-    16. **Conclusion: ****pick a product name that has strong branding potential, will have mass market appeal, is distinct from but is easily related to / clearly derived from Hydra. **
-
-    17. **Conclusion: ****we need to have a name at the same time as our first release--OR16 showcase? **
-
-*See related Google Doc: **[HyBox Repository Product Branding -- Criteria and Name*s](https://docs.google.com/document/d/1x_jDv8Kn8n6ILRQs9dXf-GvNIBQVtK3LaiDwMiIUvKI/edit)* *
-
-4. **metadata aggregator product**, locally installed. This product is intended to build on Krikri (a component) and Heidrun (DPLA’s internal version), which are used to build DPLA’s metadata ingestion system. The intended audience is primarily current or potential DPLA Hubs, which are unsatisfied by the tools available to harvest, map, aggregate, and enrich metadata before sharing it downstream to DPLA.
-
-Considerations:
-
-    18. We want some degree of brand recognition by the DPLA community as the product is intended for use within that community.
-
-    19. DPLA has used a degree of branding (around a theme of goats) for these tools.
-
-    20. At this point, neither Krikri nor Heidrun are Hydra applications/components despite using common components used by the Hydra community (e.g. Blacklight and ActiveTriples).
-
-    21. DPLA Hub staff have often assumed that the aggregator product would require running a Hydra-based repository. Despite the intended uptake of the *repository* product by DPLA community, DPLA Hub staff noted that requiring a Hydra-based repository would be a blocker to adoption of the aggregator product.
-
-    22. **Conclusion: Do not tie the aggregator product branding closely to Hydra or Hydra-in-a-Box. **
-
-    23. **Conclusion: Consider branding elements that will explicitly link the product back to DPLA, such as using "DPLA blue" for a logo.**
-
-5. **hosted service. **While the project partners will stand up one hosted service, other sites may also run their own. We may want to simply brand the hosted service with a "product-name Direct" or “product-name Cloud” or “product-name Online”. Or we may want to choose a different approach--perhaps relating to the DPLA hubs and service aspect? 
-
-Considerations: 
-
-    24. We want a hosted service brand that is related and relatable to the turnkey product (like ContentDM and BePress Digital Commons)
-
-    25. We want a service name that will be attractive to the major audiences we have in mind for the service: DPLA service hubs, DPLA contributing institutions, small cultural heritage organizations, current Islandora adopters, etc. 
-
-    26. We may not want to name the service after the underlying technology (e.g., Hydra or Fedora), though we may in fact **want** to name the service after the product upon which it is *directly* based (see #3 above). Cambridge named their institutional repository "DSpace at Cambridge", which may be a regrettable choice should they ever wish to keep the service name but move to a different technology. 
-
-    27. We don’t need to name the hosted service yet.
-
-    28. **Conclusion: ****Consider and test-market Service names between now and the time of the service launch.**** **
