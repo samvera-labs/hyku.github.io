@@ -34,5 +34,5 @@ For now, we have started by creating a new component that augments the Hydra sta
 
 So what is the take away? Most obviously, as we have thought about names, we have also learned more about what we’re doing; it’s not just building a repository product, but also general Hydra componentry, a hosted service, metadata tooling, and a project.  
 
-We also have learned that naming things--especially important things, and things that you love--can be hard. (This is not news to any product managers--or parents, for that matter.) Do you have a killer name for the repository product? If so, give us your idea(s)! We are gladly accepting suggestions (and inspiration) for the repository product’s name. Email [hybox-contact@googlegroups.com](mailto:hybox-contact@googlegroups.com) with any ideas. (Free t-shirts to any winning, or funny, submissions.) 
+We also have learned that naming things--especially important things, and things that you love--can be hard. (This is not news to any product managers--or parents, for that matter.) Do you have a killer name for the repository product? If so, give us your idea(s)! We are gladly accepting [suggestions (and inspiration) for the repository product’s name] (https://goo.gl/forms/HRcBVicREr6ERKzb2). (Free t-shirts to any winning, or funny, submissions.) 
 
