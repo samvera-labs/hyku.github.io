@@ -1,4 +1,4 @@
-What’s in a name? The many facets of Hydra-in-a-Box
+# What’s in a name? The many facets of Hydra-in-a-Box
 
 Sometimes you need to work on something for a while before you figure out what its name should be. We’re at that stage now. The official name for the project, the one that went in on the grant proposal, describes the overarching objectives of the grant, but it’s anything but pithy: *Fostering a New National Library Network through a Community­-Based, Connected Repository System*. So what should we call what we’re making? (No really--we need your ideas. Read on!)
 
