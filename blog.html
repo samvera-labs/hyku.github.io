@@ -16,7 +16,7 @@ layout: default
                 <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
             </header>
             <section class="container">
-                {{ post.excerpt }}
+                {{ post.excerpt | strip_footnotes }}
             </section>
             <section class="special">
                 <ul class="actions">
