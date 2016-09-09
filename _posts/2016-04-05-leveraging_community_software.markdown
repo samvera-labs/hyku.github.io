@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Leveraging Community Software
+author: Mike Giarlo
 ---
 
 One of the earliest technical decisions the Hydra-in-a-Box team made was to base

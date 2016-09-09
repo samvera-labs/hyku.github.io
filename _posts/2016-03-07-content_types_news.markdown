@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Content Types and other News
+author: Hannah Frost
 ---
 
 #### Project Update
 The past month has been full, and we have plenty of news to report. Read on if you want to catch up on: the Intent to Merge announcement from DuraSpace and LYRASIS; how the Hydra-in-a-Box team is organizing and digging into our work; and decisions we have made about content types to be supported in the application.
 
-First, in case you missed it, DuraSpace and LYRASIS announced in late January their [Intent to Merge](http://duraspace.org/node/2775), which is big news for the library community! Given that DuraSpace is one of the Hydra-in-a-Box project partners, what does this news mean for our project? In short, nothing!  As explained on the [Intent to Merge FAQ](http://duraspace.org/about/mergefaq#whatdoesitmean), DuraSpace will continue to support the Hydra-in-a-Box project in addition to the five established open source software efforts that it already successfully stewards. 
+First, in case you missed it, DuraSpace and LYRASIS announced in late January their [Intent to Merge](http://duraspace.org/node/2775), which is big news for the library community! Given that DuraSpace is one of the Hydra-in-a-Box project partners, what does this news mean for our project? In short, nothing!  As explained on the [Intent to Merge FAQ](http://duraspace.org/about/mergefaq#whatdoesitmean), DuraSpace will continue to support the Hydra-in-a-Box project in addition to the five established open source software efforts that it already successfully stewards.
 
 In terms of project work, over the past couple of months, we formally organized our multi-institution team into a number of groups focused on distinct areas of work: product design, marketing and communications, data modeling, and business and technical issues related to the hosted service. The membership of these teams and their deliverables are articulated in a series of [team charges posted on the wiki](https://wiki.duraspace.org/display/hydra/Hydra-in-a-Box+Team+Charges). Check them out for more details.
 
@@ -19,7 +20,7 @@ Our environmental scan and design research shows that image-based content tops t
 
 Image caption: _A partial screenshot of a visualization of our user interview data, after import and analysis using in a content analysis tool._
 
-Our data also shows that content types routinely generated and collected in the academic institution context -- such as articles, theses, dissertations, grey literature, and research data -- when considered together, form a substantial percentage of the content to be managed. These are the content types commonly stored in “institutional repository” solutions (as opposed to image, media, or other content-type-specific repositories).  [Sufia](http://sufia.io), the Hydra application on which Hydra-in-a-Box will be based, is well suited to this kind of content given its support for deposit of generic multi-file works. 
+Our data also shows that content types routinely generated and collected in the academic institution context -- such as articles, theses, dissertations, grey literature, and research data -- when considered together, form a substantial percentage of the content to be managed. These are the content types commonly stored in “institutional repository” solutions (as opposed to image, media, or other content-type-specific repositories).  [Sufia](http://sufia.io), the Hydra application on which Hydra-in-a-Box will be based, is well suited to this kind of content given its support for deposit of generic multi-file works.
 
 Between support for images and institutional repository-type content, Hydra-in-a-Box will cover a lot of repository territory. But we won’t stop there!  We undertook a close analysis of 31 various content types within the categories of images, text, media, geo, data and software, and have started to develop a set of detailed user scenarios. All of this analysis serves to highlight both the distinct and overlapping functional requirements for various content types from the perspective of both depositing and using repository content, and directly informs data modeling and feature prioritization for Hydra-in-a-Box.
 
