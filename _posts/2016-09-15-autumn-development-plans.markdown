@@ -66,7 +66,7 @@ Members of the team will be attending [Hydra Connect](https://wiki.duraspace.org
 
 We've got a busy few months ahead, as you can tell. Thanks for following along; we're super excited to be working with you all on this.
 
-[^1]: Think "Hydra-in-a-Box repository application" is a mouthful? We do too. [Send suggestions]({% post_url 2016-08-25-hybox-names %})!
+[^1]: Think "Hydra-in-a-Box repository application" is a mouthful? We do too. [Send name suggestions]({% post_url 2016-08-25-hybox-names %})!
 [^2]: Read more about [progress made during our first work cycle]({% post_url 2016-07-11-july_update %}), including a demonstration video.
-[^3]: Stay tuned for an upcoming series of posts about the outcomes of the Design Phase, which we're excited to share with you all.
+[^3]: Stay tuned for an upcoming series of posts about the outcomes of the Design Phase, and how they are informing the overall repository product vision and feature prioritization.
 [^4]: A number of institutions are contributing to this work, including Indiana University, University of Cincinnati, California State University, Lafayette College, Stanford University, Penn State University, University of Michigan, and University of Alberta.
