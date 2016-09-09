@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Repository Development Sprinting Along in 2016"
-author: "Mike Giarlo"
+title: Repository Development Sprinting Along in 2016
+author: Hannah Frost, Mike Giarlo
 ---
 
 After a brief hiatus following Open Repositories 2016, the Hydra-in-a-Box technical team is again hard at work developing the Hydra-in-a-Box repository application [^1]. The current work cycle runs from August through November of 2016, building on the infrastructure work, API support, and preliminary feature work undertaken in our first repository application work cycle (March-June 2016) [^2]. Our focus is now on the features and functionality that have surfaced in the requirements gathering process undertaken in the Design Phase [^3]. The end goal of this second work cycle is to beta-release a feature-full application in late autumn 2016 for product piloting by other institutions in late winter 2017 (details forthcoming!).
