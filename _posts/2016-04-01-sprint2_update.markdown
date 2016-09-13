@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Technical Update (4/1/2016)
+author: Mike Giarlo
 ---
 
 After an invigorating week at [LDCX](http://ldcx.stanford.edu/) and Hydra community meetings, the Hydra-in-a-Box technical team hit the ground running on Monday in what was our second development sprint. We'll be sharing our progress via weekly demonstrations, the first of which is now available.

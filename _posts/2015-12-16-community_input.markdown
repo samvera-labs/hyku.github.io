@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Community Input, plus Thoughts on Customization and Configuration
+author: Hannah Frost
 ---
 
 #### Project Update

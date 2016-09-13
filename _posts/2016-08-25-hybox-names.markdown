@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What's in a name? The many facets of Hydra-in-a-Box
+author: Tom Cramer
 ---
 
 Sometimes you need to work on something for a while before you figure out what its name should be. We're at that stage now. The official name for the project, the one that was on the grant proposal, describes the overarching objectives of the grant, but it's anything but pithy: *Fostering a New National Library Network through a Community-Based, Connected Repository System*. So what should we call what we're making? (No really&mdash;we need your ideas. Read on!)

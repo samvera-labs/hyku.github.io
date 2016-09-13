@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Technical Update (4/8/2016) and Spring Progress Report
+author: Mike Giarlo
 ---
 
 The Hydra-in-a-Box technical team's sprint 3 demo -- showing deployment to Amazon Web Services, multi-tenancy, the configuration user interface, and Sufia's new batch upload workflow -- is now available:

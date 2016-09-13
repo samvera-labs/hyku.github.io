@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Find out What’s Inside Hydra-in-a-Box at Open Repositories 2016 - PCDM, Design, Emerging Architecture, Repository Tooling
+author: Hannah Frost
 ---
 
 It’s only three weeks away! If you will attend the 11th Annual International Conference on Open Repositories (#OR2016Dub), here are the sessions that will be of interest if you want to learn more about the Hydra-in-a-Box project.

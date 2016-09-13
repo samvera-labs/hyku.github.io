@@ -1,6 +1,7 @@
 ---
 layout: post
 title: July Progress Report
+author: Mike Giarlo
 ---
 
 The Hydra-in-a-Box technical team's first development work cycle is now complete, having run from March until June of this year. Here's a demo summarizing much of the feature work we did during this cycle.

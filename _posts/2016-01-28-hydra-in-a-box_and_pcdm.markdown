@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hydra-in-a-Box and PCDM
+author: Mike Giarlo
 ---
 
 Getting complex systems with complex data to interoperate is a tricky problem. This is what the [Portland Common Data Model (PCDM)](https://github.com/duraspace/pcdm/wiki) aims to do for interoperable data models, which are useful in many contexts, including digital repositories. PCDM will be used to build the data models in the feature-rich, next-generation [Fedora](http://fedorarepository.org/)-based digital repository, Hydra-in-a-Box.
