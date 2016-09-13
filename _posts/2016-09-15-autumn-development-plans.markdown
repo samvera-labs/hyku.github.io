@@ -4,7 +4,7 @@ title: Repository Development Sprinting Along in 2016
 author: Hannah Frost, Mike Giarlo
 ---
 
-After a brief hiatus following Open Repositories 2016, the Hydra-in-a-Box technical team is again hard at work developing the Hydra-in-a-Box repository application [^1]. The current work cycle runs from August through November of 2016, building on the infrastructure work, API support, and preliminary feature work undertaken in our first repository application work cycle (March-June 2016) [^2]. Our focus is now on the features and functionality that have surfaced in the requirements gathering process undertaken in the Design Phase [^3]. The end goal of this second work cycle is to beta-release a feature-full application in late autumn 2016 for product piloting by other institutions in late winter 2017 (details forthcoming!).
+After a brief hiatus following Open Repositories 2016, the Hydra-in-a-Box technical team is again hard at work developing the Hydra-in-a-Box repository application <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>. The current work cycle runs from August through November of 2016, building on the infrastructure work, API support, and preliminary feature work undertaken in our first repository application work cycle (March-June 2016) <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>. Our focus is now on the features and functionality that have surfaced in the requirements gathering process undertaken in the Design Phase <sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>. The end goal of this second work cycle is to beta-release a feature-full application in late autumn 2016 for product piloting by other institutions in late winter 2017 (details forthcoming!).
 
 # Business Value
 
@@ -12,7 +12,7 @@ The value of the work represented in the Feature List below &mdash; which we con
 
 * Nested works/complex objects user interface - work done by Oregon State University, Princeton University, and Chemical Heritage Foundation (complete)
 * [Import/export of Fedora objects](https://wiki.duraspace.org/display/FF/Design+-+Import+-+Export) - planned work by the Fedora community, followed up by Princeton, Penn State, and others during a September 19th-23rd community sprint (in progress)
-* Mediated deposit - planned work by Oregon State University, who will be coordinating a community sprint [^4] from September through December (in progress)
+* Mediated deposit - planned work by Oregon State University, who will be coordinating a community sprint <sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup> from September through December (in progress)
 * Administrative dashboard - planned work hosted by Penn State University in late September (coming soon)
 
 There remain several key deliverables in our project to be addressed, and work on them is ripe for follow-up, *e.g.*, implementation of one or more integration points with DPLA to support effective harvesting/synchronization
@@ -66,7 +66,19 @@ Members of the team will be attending [Hydra Connect](https://wiki.duraspace.org
 
 We've got a busy few months ahead, as you can tell. Thanks for following along; we're super excited to be working with you all on this.
 
-[^1]: Think "Hydra-in-a-Box repository application" is a mouthful? We do too. [Send name suggestions]({% post_url 2016-08-25-hybox-names %})!
-[^2]: Read more about [progress made during our first work cycle]({% post_url 2016-07-11-july_update %}), including a demonstration video.
-[^3]: Stay tuned for an upcoming series of posts about the outcomes of the Design Phase, and how they are informing the overall repository product vision and feature prioritization.
-[^4]: A number of institutions are contributing to this work, including Indiana University, University of Cincinnati, California State University, Lafayette College, Stanford University, Penn State University, University of Michigan, and University of Alberta.
+<div class="footnotes">
+    <ol>
+        <li id="fn:1">
+            <p>Think “Hydra-in-a-Box repository application” is a mouthful? We do too. <a href="/2016/08/25/hybox-names.html">Send name suggestions</a>! <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+        </li>
+        <li id="fn:2">
+            <p>Read more about <a href="/2016/07/11/july_update.html">progress made during our first work cycle</a>, including a demonstration video. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+        </li>
+        <li id="fn:3">
+            <p>Stay tuned for an upcoming series of posts about the outcomes of the Design Phase, and how they are informing the overall repository product vision and feature prioritization. <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+        </li>
+        <li id="fn:4">
+            <p>A number of institutions are contributing to this work, including Indiana University, University of Cincinnati, California State University, Lafayette College, Stanford University, Penn State University, University of Michigan, and University of Alberta. <a href="#fnref:4" class="reversefootnote">&#8617;</a></p>
+        </li>
+    </ol>
+</div>
