@@ -1107,3 +1107,9 @@
 		#footer .icons a {
 			color: #bbb;
 		}
+
+/* Persona Image */
+
+.persona {
+	border: 1px solid #ddd;
+}
