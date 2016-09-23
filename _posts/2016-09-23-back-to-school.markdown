@@ -16,7 +16,9 @@ from the DuraSpace wiki.)
 Aaron uses the repository for three distinct purposes. His first goal is to discover and access material for his research. The scenario describes how he is able to accomplish this leveraging the power of a Blacklight/Solr-driven front end to find and download material, easily determining its rights status due to the standardized rights statement displayed in the metadata, and capturing a formatted citation that works with common citation management tools.
 
 <figure class="image fit persona">
-  <img src="/images/Hydra-in-a-Box_Persona-Student.png" alt="Student Persona" />
+  <a href="https://wiki.duraspace.org/download/attachments/76841397/Hydra-in-a-Box%20Personas.pdf?version=3&modificationDate=1465782652119&api=v2">
+    <img src="/images/Hydra-in-a-Box_Persona-Student.png" alt="Student Persona" />
+  </a>
 </figure>
 
 Aaron also uses the repository as a “proxy depositor”, to help manage content produced by faculty members of his academic department, showing how Hydra-in-a-Box’s flexible roles make it possible for busy faculty to delegate repository content management tasks. Finally Aaron uses the repository to deposit his own thesis, and the scenario suggests the critical functionality provided by a mediated deposit workflow that the repository supports to facilitate the review and approval of theses and other culminating student works by department administrators and faculty. (The Hydra-in-a-Box team has been actively supporting the development of mediated deposit functionality in Sufia, work currently in progress under the leadership of Oregon State University.)
