@@ -16,7 +16,7 @@ from the DuraSpace wiki.)
 Aaron uses the repository for three distinct purposes. His first goal is to discover and access material for his research. The scenario describes how he is able to accomplish this leveraging the power of a Blacklight/Solr-driven front end to find and download material, easily determining its rights status due to the standardized rights statement displayed in the metadata, and capturing a formatted citation that works with common citation management tools.
 
 <figure class="image fit persona">
-  <a href="https://wiki.duraspace.org/download/attachments/76841397/Hydra-in-a-Box%20Personas.pdf?version=3&modificationDate=1465782652119&api=v2">
+  <a href="/images/Hydra-in-a-Box_Persona-Student.png">
     <img src="/images/Hydra-in-a-Box_Persona-Student.png" alt="Student Persona" />
   </a>
 </figure>
