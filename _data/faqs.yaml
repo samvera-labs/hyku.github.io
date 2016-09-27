@@ -1,7 +1,7 @@
 - question: >-
     What is the project timeline?
   answer: >-
-    The Design Phase is wrapping up in Summer 2016. Development started in March 2016. We completed our first (ten-week) development work cycle in June 2016. See Mike Giarlo's [July 2016 blog post](/2016/07/11/july_update.html) for detailed information about the work accomplished to that point. Our second development work cycle runs August-November 2016.
+    Development of the repository application began in March 2016 after an intensive Design Phase was undertaken and produced a collection of <a href="https://wiki.duraspace.org/display/hydra/Hydra-in-a-Box+Design+Documents">design documents</a>. A series of project team work cycles and community-based sprints now follow, leading up to several pilots planned for 2017. Watch our <a href="http://hydrainabox.projecthydra.org/blog.html">blog</a> or <a href="https://www.youtube.com/channel/UC1eopKtm-k_f93RTfzHSvMQ">demo videos</a> for updates along the way. More information about the 2017 pilots and service roll-out will be posted here in Fall 2016.
 - question: >-
     What kinds or sizes of institutions is Hydra-in-a-Box intended for? Can I use Hydra-in-a-Box if my institution has minimal IT staff with no skills in Ruby programming?
   answer: >-
@@ -13,7 +13,11 @@
 - question: >-
     I am interested in starting to use Hydra. If I start now, will I be able to migrate to Hydra-in-a-Box when it is ready? Or should I hold off and wait?
   answer: >-
-    The Hydra-in-a-Box repository product is built using Sufia -- a Hydra community-managed software component -- as a starting point. If you are ready to start with Hydra today with the intent or possibility of moving to Hydra-in-a-Box, then you should start with Sufia. There will be a clear migration path to the Hydra-in-a-Box application from Sufia. <a href="http://sufia.io/">Read more about Sufia here</a>.<br/><br/>If you run a Sufia-based application that has local customizations, migration to Hydra-in-a-Box will likely be more complicated. The more customization, the more complex your migration will be.
+    The Hydra-in-a-Box repository product is built using Sufia -- a Hydra community-managed software component -- as a starting point. If you are ready to start with Hydra today with the intent or possibility of moving to Hydra-in-a-Box, then you should start with Sufia. There will be a clear migration path to the Hydra-in-a-Box application from Sufia. <a href="http://sufia.io/">Read more about Sufia here</a>.<br/><br/>If you run a Sufia-based application that has local customizations, migration to Hydra-in-a-Box will likely be more complicated. The more customization, the more complex your migration will be. 
+- question: >-
+    Is the Hydra-in-a-Box repository a single Hydra "head"? Or is it several "heads"? How does the analogy apply?
+  answer: >-
+    The Hydra-in-a-Box repository application is different from other Hydra “heads” in that it is built as a multi-tenant application; this means you can host multiple, separate user-facing applications in the same instance, and each application will have its own repository objects, its own users, its own configuration, its own index, and its own look & feel. The application itself is based on Sufia, so each tenant is effectively a separate Sufia “head” even though it’s all one application. That said, we are working with the Hydra community to develop Sufia to support more diverse use cases, so that over time the Hydra-in-a-Box repository application will be capable of wearing a number of hats on its "head" -- an institutional repository, a data repository, a digital collections management system, an audiovisual repository, etc.
 - question: >-
     What content types will Hydra-in-a-Box support?
   answer: >-
@@ -25,7 +29,7 @@
 - question: >-
     Will Hydra-in-a-Box include metadata aggregation tools?
   answer: >-
-    The short answer is no, however, the Hydra-in-a-Box grant project includes further development of DPLA’s ingestion system, <a href="https://digitalpubliclibraryofamerica.atlassian.net/wiki/display/TECH/Heidrun">Heiðrún</a>, to create a more robust suite of aggregation tools to be used by DPLA hubs and others engaged in aggregating, remediating, and enriching metadata from multiple sources. While this product will not be tightly coupled with Hydra-in-a-Box, the two will be complementary and may share some componentry. And while it will be easy to use Hydra-in-a-Box and the aggregation tools together, the two will be fully featured and operate independently. In other words, Hydra-in-a-Box will not be required to run "Aggregator-in-a-Box" and vice versa. More information about Heiðrún is <a href="https://digitalpubliclibraryofamerica.atlassian.net/wiki/display/TECH/Heidrun">available on the DPLA wiki</a>.
+    The short answer is no, however, the Hydra-in-a-Box grant project includes further development of DPLA’s ingestion system, <a href="https://digitalpubliclibraryofamerica.atlassian.net/wiki/display/TECH/Heidrun">Heiðrún</a>, to create a more robust suite of aggregation tools to be used by DPLA hubs and others engaged in aggregating, remediating, and enriching metadata from multiple sources. Read <a href="http://hydrainabox.projecthydra.org/2016/09/08/improving-dpla-aggregation-tooling.html">Gretchen Gueguen's blog post</a> on the subject. While this product will not be tightly coupled with Hydra-in-a-Box, the two will be complementary and may share some componentry. And while it will be easy to use Hydra-in-a-Box and the aggregation tools together, the two will be fully featured and operate independently. In other words, Hydra-in-a-Box will not be required to run "Aggregator-in-a-Box" and vice versa. More information about Heiðrún is <a href="https://digitalpubliclibraryofamerica.atlassian.net/wiki/display/TECH/Heidrun">available on the DPLA wiki</a>.
 - question: >-
     Will Hydra-in-a-Box support version control of uploaded content?
   answer: >-
