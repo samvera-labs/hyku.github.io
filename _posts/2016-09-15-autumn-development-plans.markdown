@@ -50,6 +50,7 @@ Fortunately, the Hydra-in-a-Box technical team is not doing this work alone. The
 * Bill Branan (DuraSpace), Developer
 * Justin Coyne (Stanford), Developer
 * Tom Cramer (Stanford), Project Co-director
+* Tim Donohue (DuraSpace), Developer
 * Erin Fahy (Stanford), DevOps
 * Hannah Frost (Stanford), Product Manager
 * Gary Geisler (Stanford), UX Designer
