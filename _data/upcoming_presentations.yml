@@ -2,14 +2,6 @@
   presenters:
     - Hannah Frost
     - Michael Giarlo
-  event: Hydra Connect 2016
-  location: "Boston, Massachusetts"
-  date: 2016-10-04
-  url:  https://wiki.duraspace.org/display/hydra/Hydra+Connect+2016#HydraConnect2016-Tuesday4thOctober(AtBostonPublicLibrary)
-- title: Hydra-in-a-Box project update
-  presenters:
-    - Hannah Frost
-    - Michael Giarlo
     - Gretchen Gueguen
   event: DLF Forum 2016
   location: "Milwaukee, Wisconsin"
