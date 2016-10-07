@@ -1,3 +1,20 @@
+- title: Box Set - Implementing Administrative Sets in Hydra-in-a-Box (poster)
+  presenters:
+    - Hannah Frost
+    - Gary Geisler
+    - Michael Giarlo
+  event: Hydra Connect 2016
+  location: "Boston, Massachusetts"
+  date: 2016-10-04
+  url:  https://docs.google.com/presentation/d/1CDn0kDAYihP-XXIj_94zMDrGtAA4INBDV3n1pkRDshM/edit?usp=sharing
+- title: Hydra-in-a-Box project update
+  presenters:
+    - Hannah Frost
+    - Michael Giarlo
+  event: Hydra Connect 2016
+  location: "Boston, Massachusetts"
+  date: 2016-10-04
+  url:  http://bit.ly/hybox-update-hc2016
 - title: Designing Hydra-in-a-Box - What we learned from the repository community
   presenters:
     - Hannah Frost
