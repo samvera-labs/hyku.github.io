@@ -21,7 +21,7 @@ In this design persona, we see how Alysa is able to easily export a digital coll
 Finally the persona tells how Alysa prepares a feed of metadata for harvesting by the state’s DPLA hub. Contributing to the DPLA is an important way for public libraries, among other institutions with regionally important content, to extend the reach of their collections. The Hydra-in-a-Box repository will support the ability to publish metadata that meets the <a href="https://dp.la/info/developers/map/">DPLA MAP v4</a> specification, and aims to support harvesting by both <a href="https://www.openarchives.org/OAI/openarchivesprotocol.html">OAI-PMH</a> and <a href="http://www.openarchives.org/rs/1.0/resourcesync">ResourceSync</a> protocols. 
 
 
-Next up in the series, we will explore how Hydra-in-a-Box fits into life of a Researcher/Professor. (You can download
+Next up in the series, we will explore how Hydra-in-a-Box is useful to a Digital Repository Manager. (You can download
 <a href="https://wiki.duraspace.org/download/attachments/76841397/Hydra-in-a-Box%20Personas.pdf?version=3&modificationDate=1465782652119&api=v2">all six of the Hydra-in-a-Box personas</a>
 and other
 <a href="https://wiki.duraspace.org/display/hydra/Hydra-in-a-Box+Design+Documents">project design documents</a>
