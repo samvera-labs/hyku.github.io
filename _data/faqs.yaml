@@ -11,6 +11,10 @@
   answer: >-
     DuraSpace will provide hosting services at launch time, and we’ve been speaking with other hosting service providers about their needs and requirements. As hosted service options become clear, we will definitely let everyone know!
 - question: >-
+    Is the Hydra-in-a-Box application dependent on Amazon Web Services? What if I want to host it on a different cloud service provider, or on local infrastructure?
+  answer: >-
+    No, the application is not at all tied to AWS. If you choose to run it on AWS, take advantage of the CloudFormation templates our project team developed (<a href="https://github.com/hybox/aws">available on GitHub</a>). If you choose to install it on another cloud service provider, you may need to do similar development for that environment. For local installations, you need not pay attention to any of this template business.
+- question: >-
     I am interested in starting to use Hydra. If I start now, will I be able to migrate to Hydra-in-a-Box when it is ready? Or should I hold off and wait?
   answer: >-
     The Hydra-in-a-Box repository product is built using Sufia -- a Hydra community-managed software component -- as a starting point. If you are ready to start with Hydra today with the intent or possibility of moving to Hydra-in-a-Box, then you should start with Sufia. There will be a clear migration path to the Hydra-in-a-Box application from Sufia. <a href="http://sufia.io/">Read more about Sufia here</a>.<br/><br/>If you run a Sufia-based application that has local customizations, migration to Hydra-in-a-Box will likely be more complicated. The more customization, the more complex your migration will be. 
