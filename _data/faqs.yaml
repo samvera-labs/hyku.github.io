@@ -1,7 +1,7 @@
 - question: >-
     What is Hyku?
   answer: >- 
-    Hyku is the official name of the repository product that is a main deliverable of the Hydra-in-a-Box project. We settled on the name in November 2016 and announced it in early December 2016. Prior to that time, we referred to it as “the Hydra-in-a-Box repository” or “Lerna” as a temporary placeholder name. In all these cases, we are talking about the same thing: a polished, turnkey, feature-complete repository application product created by the Hydra-in-a-Box project.
+    Hyku is the official name of the repository product that is a main deliverable of the Hydra-in-a-Box project. We settled on the name in November 2016 and announced it in early December 2016. Prior to that time, we referred to it as “the Hydra-in-a-Box repository” or “Lerna” as a temporary placeholder name. In all these cases, we are talking about the same thing: a polished, turnkey, feature-complete repository application product created by the Hydra-in-a-Box project. The <a href="https://github.com/projecthydra-labs/hyku">code repository is on GitHub</a>.
 - question: >-
     What is the project timeline?
   answer: >-
