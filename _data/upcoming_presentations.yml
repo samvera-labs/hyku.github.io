@@ -1,2 +1,44 @@
-- title: There are no presentations scheduled at this time. Check back again soon!
+- title: Unwrapping Hydra-in-a-Box 
+  presenters:
+    - Hannah Frost
+  event: Code4Lib 2017
+  location: "Los Angeles, California"
+  date: 2017-03-07
+  url:  http://2017.code4lib.org/schedule/day-1/
+- title: Hydra-in-a-Box Project Update
+  presenters:
+    - Debra Hanken Kurtz
+    - Heather Greer Klein
+    - Gretchen Gueguen
+    - Michael Della Bitta
+    - Bill Branan
+    - Michael Giarlo
+  event: DPLAfest 2017
+  location: "Chicago, Illinois"
+  date: 2017-04-20
+  url:  https://dp.la/info/get-involved/dplafest/april-2017/
+- title: Hyku - The Hydra in a Box (workshop)
+  presenters:
+    - Justin Coyne
+    - Hannah Frost
+  event: Open Repositories 2017
+  location: "Brisbane, Australia"
+  date: 2017-06-27
+  url:  https://or2017.net/program/
+- title: Hyku - A Repository for All Seasons
+  presenters:
+    - Hannah Frost
+    - Michael Giarlo
+  event: Open Repositories 2017
+  location: "Brisbane, Australia"
+  date: 2017-06-28
+  url:  https://or2017.net/program/
+- title: Many Heads, One Service - All about HykuDirect
+  presenters:
+    - Hannah Frost
+    - Debra Hanken Kurtz
+  event: Open Repositories 2017
+  location: "Brisbane, Australia"
+  date: 2017-06-28
+  url:  https://or2017.net/program/
 
