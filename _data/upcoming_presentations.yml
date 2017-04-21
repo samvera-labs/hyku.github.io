@@ -1,15 +1,3 @@
-- title: Hydra-in-a-Box Project Update
-  presenters:
-    - Debra Hanken Kurtz
-    - Heather Greer Klein
-    - Gretchen Gueguen
-    - Michael Della Bitta
-    - Bill Branan
-    - Michael Giarlo
-  event: DPLAfest 2017
-  location: "Chicago, Illinois"
-  date: 2017-04-21
-  url:  https://dp.la/info/get-involved/dplafest/april-2017/dplafest-2017-agenda/
 - title: Hyku - The Hydra in a Box (workshop)
   presenters:
     - Justin Coyne
@@ -17,21 +5,21 @@
   event: Open Repositories 2017
   location: "Brisbane, Australia"
   date: 2017-06-27
-  url:  https://or2017.net/program/
+  url:  https://or2017.net/pre-conference-workshops/#Hyku
 - title: Hyku - A Repository for All Seasons
   presenters:
     - Hannah Frost
     - Michael Giarlo
   event: Open Repositories 2017
   location: "Brisbane, Australia"
-  date: 2017-06-28
-  url:  https://or2017.net/program/
+  date: 2017-06-29
+  url:  https://www.conftool.net/or2017/index.php?page=browseSessions&form_session=247
 - title: Many Heads, One Service - All about HykuDirect
   presenters:
     - Hannah Frost
     - Debra Hanken Kurtz
   event: Open Repositories 2017
   location: "Brisbane, Australia"
-  date: 2017-06-28
-  url:  https://or2017.net/program/
+  date: 2017-06-29
+  url:  https://www.conftool.net/or2017/index.php?page=browseSessions&form_session=247
 
