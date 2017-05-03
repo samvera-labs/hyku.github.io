@@ -14,7 +14,7 @@ title: Presentations & Demos
 <ul>
     {% for presentation in site.data.upcoming_presentations %}
     {% if presentation.date %}
-    <li>{{ presentation.date | date: "%b %-d, %Y" }}. {{ presentation.presenters | join: "; " "}}. "{% if presentation.url %}<a href="{{ presentation.url }}">{% endif %}{{ presentation.title }}.{% if presentation.url %}</a>{% endif %}" {{ presentation.event }}{% if presentation.location %} ({{presentation.location}}){% endif %}.</li>
+    <li>{{ presentation.date | date: "%b %-d, %Y" }}. {{ presentation.presenters | join: "; " }}. &ldquo;{% if presentation.url %}<a href="{{ presentation.url }}">{% endif %}{{ presentation.title }}.{% if presentation.url %}</a>{% endif %}&rdquo; {{ presentation.event }}{% if presentation.location %} ({{presentation.location}}){% endif %}.</li>
     {% else %}
     <li>{{ presentation.title }}</li>
     {% endif %}
@@ -24,6 +24,6 @@ title: Presentations & Demos
 <h3>Previous Presentations</h3>
 <ul>
     {% for presentation in site.data.previous_presentations %}
-    <li>{{ presentation.date | date: "%b %-d, %Y" }}. {{ presentation.presenters | join: "; " "}}. "{% if presentation.url %}<a href="{{ presentation.url }}">{% endif %}{{ presentation.title }}.{% if presentation.url %}</a>{% endif %}" {{ presentation.event }}{% if presentation.location %} ({{presentation.location}}){% endif %}.</li>
+    <li>{{ presentation.date | date: "%b %-d, %Y" }}. {{ presentation.presenters | join: "; " }}. &ldquo;{% if presentation.url %}<a href="{{ presentation.url }}">{% endif %}{{ presentation.title }}.{% if presentation.url %}</a>{% endif %}&rdquo; {{ presentation.event }}{% if presentation.location %} ({{presentation.location}}){% endif %}.</li>
     {% endfor %}
 </ul>
