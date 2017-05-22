@@ -1,0 +1,32 @@
+---
+layout: post
+title: Easy IR
+author: Hannah Frost, Gary Geisler
+---
+
+*Sixth and final post in a series highlighting the personas produced in our design process, each representing a typical user of Hydra-in-a-Box and embodying a number of use cases that our repository product, now in development, or our hosted service, now in planning, aim to fulfill.*
+
+Faustino Lund, a researcher and professor at a large public university, is the central character of this persona. For an institutional repository service to be useful, Faustino has a few basic criteria: it must offer an easy to use, efficient way to add and describe a variety of research files, and an easy way to see updated statistics and usage analytics so he can quickly know the reach of his work.
+
+<figure class="image fit persona">
+  <a href="/images/Hydra-in-a-Box_Persona-Researcher.png">
+    <img src="/images/Hydra-in-a-Box_Persona-Researcher.png" alt="Researcher/Professor persona" />
+  </a>
+</figure>
+
+Faustino is looking for the ability to upload multiple files of different types to create a single work with nested components. This kind of heterogeneous, structured content is not uncommon for academic scholars who produce works in the course of teaching and conducting research. Hyku, the Hydra-in-a-Box repository, supports this need, offering a great deal of flexibility in the way that files can be arranged within a work. It is also possible to upload, create, and describe a batch of works in a streamlined workflow. 
+
+Busy professors and researchers appreciate the ability to enable members of their team or department staff to manage repository activities on the behalf of themselves or other collaborators. Hyku supports this need in several ways. It is possible to designate another user as a proxy depositor, so they can effectively create works associated with you (and your user account). Hyku also is developing underlying support for user groups, which will make it more efficient to allow multiple users to engage with repository activities, including having the ability for a single user to proxy for a group representing multiple other users.  Also, in the context of an administrative set, the set’s creator can designate another user as a co-manager of the set, which helps to distribute and share the privileges and responsibilities of set management.
+
+The persona scenario mentions a few features that support research publications in particular: delayed release (embargo), <a href="https://orcid.org/">ORCID</a>, and <a href="https://www.doi.org/">DOI</a>. It is not uncommon for researchers to delay the release of their research or publications due to a contractual arrangement with a publisher or simply to extend the time period before their intellectual property is published and accessible by others. Hyku provides the ability to apply an embargo at the time a work is deposited, a practical benefit to the researcher so that they can deposit at their convenience and schedule the publication date as needed. 
+
+Also in the persona, we read how Faustino enters his personal ORCID with his deposited conference paper so that it can be associated with his research profile across networked scholarly communication indexes and databases. Currently Hyku allows a user to enter their ORCID on their profile page; future work may involve integration with the ORCID service infrastructure so that the associations between the researcher and their works in Hyku are made automatically. Hyku also has a metadata field where a depositor can enter an existing DOI link for a publication, a good practice for ensuring related resources are linked; leveraging that DOI link to auto-populate the other Hyku metadata fields with values from the source object relies on a technical integration to be added to Hyku in the future. 
+
+Reporting features are needed by all users of a repository, but they can serve a particularly critical role in the circumstances of faculty researchers who need to reliably quantify and demonstrate the impact of their research through its use by others. The Hydra-in-a-Box team has implemented some basic improvements to the statistics and reporting features in Hyku, and has improved how this data is displayed in the administrative dashboard. Additional interface design work is underway now to further enhance reports, and with the integration of Google Analytics, work which is already prioritized and specified for a future work cycle, the reporting features will achieve a greater level of completeness, detail and utility.
+
+(You can download
+<a href="https://wiki.duraspace.org/download/attachments/76841397/Hydra-in-a-Box%20Personas.pdf?version=3&modificationDate=1465782652119&api=v2">all six of the Hydra-in-a-Box personas</a>
+and other
+<a href="https://wiki.duraspace.org/display/hydra/Hydra-in-a-Box+Design+Documents">project design documents</a>
+from the DuraSpace wiki.)
+
