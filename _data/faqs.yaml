@@ -5,7 +5,7 @@
 - question: >-
     What is the project timeline?
   answer: >-
-    Development of the repository application began in March 2016 after an intensive Design Phase was undertaken, resulting in a collection of <a href="https://wiki.duraspace.org/display/hydra/Hydra-in-a-Box+Design+Documents">design documents</a>. A series of project team work cycles and community-based sprints now follow, leading up to several pilots planned for 2017. Watch our <a href="http://hydrainabox.projecthydra.org/blog.html">blog</a> or <a href="https://www.youtube.com/channel/UC1eopKtm-k_f93RTfzHSvMQ">demo videos</a> for updates along the way. More information about the 2017 pilots and service roll-out will be posted here in early 2017.
+    Development of the repository application began in March 2016 after an intensive Design Phase was undertaken, resulting in a collection of <a href="https://wiki.duraspace.org/display/hydra/Hydra-in-a-Box+Design+Documents">design documents</a>. A series of project team work cycles and community-based sprints now follow, leading up to several pilots planned for 2017. Watch our <a href="http://hydrainabox.projecthydra.org/blog.html">blog</a> or <a href="https://www.youtube.com/channel/UC1eopKtm-k_f93RTfzHSvMQ">demo videos</a> for updates along the way. Information about the 2017 product beta and hosted service pilots is available in <a href="http://duraspace.org/articles/3178">this press release</a>.
 - question: >-
     What kinds or sizes of institutions is Hyku intended for? Can I use Hyku if my institution has minimal IT staff with little-to-no skills in Ruby programming or Rails development?
   answer: >-
@@ -13,7 +13,11 @@
 - question: >-
     What is the relationship between Hyku, Hyrax, and Sufia? 
   answer: >- 
-    Hyku is based directly on Hyrax. Hyku had been based on Sufia until November 2016 when Sufia and CurationConcerns were consolidated into one gem named Hyrax. From Hyku's perspective, there has been no functional change since Sufia was consolidated into Hyrax.
+    Hyku is based directly on Hyrax. Hyku had been based on Sufia until November 2016 when Sufia and CurationConcerns were consolidated into one gem named Hyrax. From Hyku's perspective, there has been no functional change since Sufia was consolidated into Hyrax.<br/><br/>Read more about the relationship between Hyku and Hyrax on the <a href="https://wiki.duraspace.org/pages/viewpage.action?pageId=85530575">Hyku documentation wiki</a> and on the <a href="http://samvera.github.io/hyku-vs-hyrax.html">Hyrax Developer Knowledge Base</a>.
+- question: >-
+    Who will provide hosting services for Hyku?
+  answer: >-
+    DuraSpace plans to offer a hosted Hyku service named HykuDirect in partnership with a network of service providers. More details about this service, including expected features and timeline, can be found on the <a href="https://hykudirect.com/">HykuDirect website</a>.
 - question: >-
     I am interested in starting to use Hydra at my institution. If I start now, will I be able to migrate to Hyku when it is released? Or should I hold off and wait?
   answer: >-
@@ -46,10 +50,6 @@
     <li><strong>DOI</strong>: <a href="https://www.doi.org/">DOI</a> integration is planned for Hyku. There is a <a href="https://github.com/projecthydra-labs/hydra-remote_identifier">hydra-remote-identifier gem</a> that you may use to build this customization if you require this functionality before we add it to Hyku.</li>
     <li><strong>ORCID</strong>: <a href="http://orcid.org/">ORCID</a> integration is planned for Hyku. There is the <a href="https://github.com/projecthydra-labs/orcid">orcid gem</a> that you may use to build this customization if this functionality is required before we integrate it into Hyku.</li>
     </ul>
-- question: >-
-    Who will provide hosting services for Hyku?
-  answer: >-
-    DuraSpace aims to provide a hosting service — named HykuDirect — at launch time, and we’ve been speaking with other hosting service providers about their needs and requirements. As hosted service options become clear, we will definitely let everyone know!
 - question: >-
     Is the Hyku application dependent on Amazon Web Services (AWS)? What if I want to host it on a different cloud service provider, or on local infrastructure?
   answer: >-
