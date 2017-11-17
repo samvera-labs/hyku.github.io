@@ -17,4 +17,4 @@ Development work on the aggregator has so far been performed by DPLA with a lot 
 
 The remainder of 2016 and early 2017 will focus on updating backend systems, working on error handling and a few basic processes like deleting records, and completing remaining data modeling in addition to the work on the administrator dashboard.
 
-The Hydra-in-a-Box project has opened up many new possibilities for DPLA and its member network. Participation in DPLA still happens through developing a Hub partnership. The repository isn’t an immediate on-ramp to DPLA; it just makes participation technologically easier. For Hydra and DPLA, it will be the beginning of a beautiful friendship.
+The Hydra-in-a-Box project has opened up many new possibilities for DPLA and its member network. Participation in DPLA still happens through developing a Hub partnership. The repository isn’t an immediate on-ramp to DPLA; it just makes participation technologically easier. For Samvera and DPLA, it will be the beginning of a beautiful friendship.

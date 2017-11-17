@@ -8,7 +8,7 @@ After a brief hiatus following Open Repositories 2016, the Hydra-in-a-Box techni
 
 # Business Value
 
-The value of the work represented in the Feature List below &mdash; which we consider to be the [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product) for pilot usage &mdash; is summarized here. During the course of this work cycle, there are concrete plans in the Hydra community to develop fundamental features in [existing components]({% post_url 2016-04-05-leveraging_community_software %}) that are required in and directly intersect with the Hydra-in-a-Box repository application. This is a timely opportunity to engage with and complement this organic community activity:
+The value of the work represented in the Feature List below &mdash; which we consider to be the [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product) for pilot usage &mdash; is summarized here. During the course of this work cycle, there are concrete plans in the Samvera community to develop fundamental features in [existing components]({% post_url 2016-04-05-leveraging_community_software %}) that are required in and directly intersect with the Hydra-in-a-Box repository application. This is a timely opportunity to engage with and complement this organic community activity:
 
 * Nested works/complex objects user interface - work done by Oregon State University, Princeton University, and Chemical Heritage Foundation (complete)
 * [Import/export of Fedora objects](https://wiki.duraspace.org/display/FF/Design+-+Import+-+Export) - planned work by the Fedora community, followed up by Princeton, Penn State, and others during a September 19th-23rd community sprint (in progress)
@@ -63,7 +63,7 @@ Fortunately, the Hydra-in-a-Box technical team is not doing this work alone. The
 
 Just as we did during our first work cycle, we will be providing regular updates on progress made. We're producing video-based demonstrations of our progress, and sharing those with various community mailing lists every two weeks. To follow those, you can also subscribe to [our YouTube playlist](https://www.youtube.com/watch?v=0U1-Y7zJxTs&list=PLzfkco_SxElHyQ5teku8egXRxpnu_9nn_).
 
-Members of the team will be attending [Hydra Connect](https://wiki.duraspace.org/display/hydra/Hydra+Connect+2016) and the [Digital Library Federation Forum](https://www.diglib.org/forums/2016forum/) in the coming months, [presenting at both on their work and the Hydra-in-a-Box project](http://hydrainabox.projecthydra.org/presentations.html); we'd love to talk with you about the project if you have questions or feedback for us, and as always you are welcome to [contact us over email](mailto:hybox-contact@googlegroups.com).
+Members of the team will be attending [Hydra Connect](https://wiki.duraspace.org/display/samvera/Hydra+Connect+2016) and the [Digital Library Federation Forum](https://www.diglib.org/forums/2016forum/) in the coming months, [presenting at both on their work and the Hydra-in-a-Box project](http://hydrainabox.samvera.org/presentations.html); we'd love to talk with you about the project if you have questions or feedback for us, and as always you are welcome to [contact us over email](mailto:hybox-contact@googlegroups.com).
 
 We've got a busy few months ahead, as you can tell. Thanks for following along; we're super excited to be working with you all on this.
 

@@ -15,7 +15,7 @@ Meetings like CNI are an ideal way to engage with the community, to hear how our
 The product design team is deeply focused right now on content analysis of all the information we have gathered through the community survey and user interviews over the past few months. Here are some stats about our data set:
 
 * gathered in 23 individual interviews and 4 focus groups
-* by video conference and face-to-face meetings (at Hydra Connect, DLF Forum, and the Mid-Atlantic Fedora Users Group)
+* by video conference and face-to-face meetings (at Samvera Connect, DLF Forum, and the Mid-Atlantic Fedora Users Group)
 * interviewed 62 people at 48 institutions and 3 service providers from 19 U.S. states and 2 Canadian provinces
 * recorded and transcribed over 29 hours of interview content
 
@@ -31,4 +31,4 @@ We also have observed that the term “customization” is sometimes conflated w
 You can read more about Hydra-in-a-Box customization and configuration on the [FAQ](/faq.html).
 
 #### Upcoming Presentations
-No formal project presentations are scheduled for the winter months. Some members of the project team will be gathering in San Diego the first week of February for the [Hydra Developers Congress](https://wiki.duraspace.org/display/hydra/February+2016+Developer+Meeting+Agenda) and then again the following month at the [LDCX](https://library.stanford.edu/projects/ldcx) unconference at Stanford. We’ll have much to share about Hydra-in-a-Box progress around this time as the Design Phase winds down and we turn to development!
+No formal project presentations are scheduled for the winter months. Some members of the project team will be gathering in San Diego the first week of February for the [Samvera Developers Congress](https://wiki.duraspace.org/display/samvera/February+2016+Developer+Meeting+Agenda) and then again the following month at the [LDCX](https://library.stanford.edu/projects/ldcx) unconference at Stanford. We’ll have much to share about Hydra-in-a-Box progress around this time as the Design Phase winds down and we turn to development!
