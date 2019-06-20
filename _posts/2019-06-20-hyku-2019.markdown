@@ -1,0 +1,14 @@
+---
+layout: post
+title: Hyku in 2019
+author: Kevin Kochanski
+---
+
+There's been a lot of activity around Hyku in 2019. Beginning with Hyku's promotion from Samvera Labs in February, spring has been a productive season. Several active Hyku developers are in the midst of benchmark pilot programs with community partners. The authors of the [State of Samvera Technology in 2019](https://wiki.duraspace.org/download/attachments/104564124/Roadmap_Council_State_of_Samvera_Technology_Version1.pdf?version=1&modificationDate=1553174208324&api=v2) white paper did a wonderful job of summarizing these programs.
+
+Aligned with this activity, there have been several updates in the online community presence for Hyku. Among them:
+  * The [Hyku Roadmap](https://wiki.duraspace.org/display/samvera/Hyku+Roadmap) was created on the Samvera wiki by the Hyku Interest Group in order to add visibility to current and future Hyku developments.
+  * A [Hyku mailing list](https://groups.google.com/forum/#!forum/samvera-hyku) debuted under the Samvera banner. This is a good list for anyone who wants to be a part of the Hyku conversation to add their name to.  
+  * [This very site](http://hydrainabox.samvera.org/) was refreshed to reflect the Hyku name from the original Hydra-in-a-Box project branding. In the spirit of data preservation that is the heart of this community, the Hydra-in-a-Box legacy site is archived [here](http://hydrainabox.samvera.org/).
+
+As 2019 continues, we can look forward to more features being contributed back from pilot projects, as well as the debut of hosted Hyku services from development partners.  
