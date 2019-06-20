@@ -1,0 +1,164 @@
+- title: Hydra-in-a-Box Project Final Report
+  presenters:
+    - Tom Cramer
+    - Hannah Frost
+    - Michele Kimpton
+    - Debra Hanken Kurtz
+  event: Coalition for Networked Information (CNI) Fall 2017 Membership Meeting
+  location: "Washington, DC"
+  date: 2017-12-12
+  url:  https://docs.google.com/presentation/d/1kDCJlu67yNuRAvAG9WsX-tLGFulafZd_sc3rbExb__I/edit#slide=id.p
+- title: Hydra-in-a-Box Project Final Report
+  presenters:
+    - Hannah Frost
+    - Michael Giarlo
+  event: Samvera Connect 2017
+  location: "Evanston, Illinois"
+  date: 2017-11-07
+  url:  https://docs.google.com/presentation/d/1VqznaDWQl5uG_rcDfm7uk4GLGDgWtptM4EwyAWJskVk/edit#slide=id.p
+- title: Hydra-in-a-Box Project Final Report
+  presenters:
+    - Hannah Frost
+    - Michael Giarlo
+  event: Samvera Connect 2017
+  location: "Evanston, Illinois"
+  date: 2017-11-07
+  url:  https://docs.google.com/presentation/d/1VqznaDWQl5uG_rcDfm7uk4GLGDgWtptM4EwyAWJskVk/edit#slide=id.p
+- title: Hydra-in-a-Box Project Final Report
+  presenters:
+    - Hannah Frost
+    - Debra Hanken Kurtz
+    - Kelcy Shepherd
+  event: DLF Forum 2017
+  location: "Pittsburgh, Pennsylvania"
+  date: 2017-10-23
+  url:  http://bit.ly/hybox-report-dlf2017
+- title: Hyku - A Repository for All Seasons
+  presenters:
+    - Hannah Frost
+    - Michael Giarlo
+  event: Open Repositories 2017
+  location: "Brisbane, Australia"
+  date: 2017-06-29
+  url:  http://bit.ly/hyku-or2017
+- title: Many Heads, One Service - All about HykuDirect (part 1)
+  presenters:
+    - Hannah Frost
+  event: Open Repositories 2017
+  location: "Brisbane, Australia"
+  date: 2017-06-29
+  url:  http://bit.ly/hykudirect-pilots
+- title: Many Heads, One Service - All about HykuDirect (part 2)
+  presenters:
+    - Debra Hanken Kurtz
+  event: Open Repositories 2017
+  location: "Brisbane, Australia"
+  date: 2017-06-29
+  url:  http://bit.ly/hykudirect-or2017
+- title: Hyku - The Hydra in a Box (workshop)
+  presenters:
+    - Justin Coyne
+    - Hannah Frost
+  event: Open Repositories 2017
+  location: "Brisbane, Australia"
+  date: 2017-06-27
+- title: Hyku, the Hydra in a Box repository
+  presenters:
+    - Hannah Frost
+  event: Powering Linked Data and Hosted Solutions with Fedora
+  location: online webinar  
+  date: 2017-05-15
+  url: http://duraspace.org/node/3181 
+- title: Hydra-in-a-Box Project Update
+  presenters:
+    - Michael Della Bitta
+    - Heather Greer Klein
+  event: DPLAfest 2017
+  location: "Chicago, Illinois"
+  date: 2017-04-21
+  url:  http://bit.ly/hybox-dplafest2017-update 
+- title: Unwrapping Hydra-in-a-Box
+  presenters:
+    - Hannah Frost
+  event: Code4Lib 2017
+  location: "Los Angeles, California"
+  date: 2017-03-07
+  url:  http://bit.ly/unwrapping-hybox 
+- title: Hydra-in-a-Box Project Update
+  presenters:
+    - Hannah Frost
+    - Michael Giarlo
+    - Gretchen Gueguen
+  event: DLF Forum 2016
+  location: "Milwaukee, Wisconsin"
+  date: 2016-11-07
+  url:  http://bit.ly/hybox-update-nov2016
+- title: Box Set - Implementing Administrative Sets in Hydra-in-a-Box (poster)
+  presenters:
+    - Hannah Frost
+    - Gary Geisler
+    - Michael Giarlo
+  event: Hydra Connect 2016
+  location: "Boston, Massachusetts"
+  date: 2016-10-04
+  url:  https://docs.google.com/presentation/d/1CDn0kDAYihP-XXIj_94zMDrGtAA4INBDV3n1pkRDshM/edit?usp=sharing
+- title: Hydra-in-a-Box Project Update
+  presenters:
+    - Hannah Frost
+    - Michael Giarlo
+  event: Hydra Connect 2016
+  location: "Boston, Massachusetts"
+  date: 2016-10-04
+  url:  http://bit.ly/hybox-update-hc2016
+- title: Designing Hydra-in-a-Box - What we learned from the repository community
+  presenters:
+    - Hannah Frost
+    - Gary Geisler
+  event: Open Repositories 2016
+  location: "Dublin, Ireland"
+  date: 2016-06-15
+  url:  http://bit.ly/design-hydrainabox
+- title: A Peek Inside the Box - Technology, Architecture, and Community Engagement to Tame the Hydra
+  presenters:
+    - Erin Fahy
+    - Mike Giarlo
+    - Mark Matienzo
+  event: Open Repositories 2016
+  location: "Dublin, Ireland"
+  date: 2016-06-15
+  url:  http://bit.ly/peek-inside-the-box
+- title: Hydra in a Box - Building a Next-Generation Platform for Digital Collections
+  presenters:
+    - Mark Matienzo
+    - Gretchen Gueguen
+    - Hannah Frost
+  event: DPLAfest 2016
+  location: "Washington, DC"
+  date: 2016-04-14
+  url:  http://bit.ly/dplafest-hybox
+- title: Building and Bundling a National Digital Platform
+  presenters:
+    - Mark Matienzo
+    - Debra Hanken Kurtz
+    - Tom Cramer
+  event: CNI Fall 2015 Membership Meeting
+  location: "Washington, DC"
+  date: 2015-12-15
+  url:  https://osf.io/h4ru8/
+- title: Hydra in a Box
+  presenters:
+    - Mark Matienzo
+    - Jonathan Markow
+    - Tom Cramer
+  event: Digital Library Federation Forum
+  location: "Vancouver, BC"
+  date: 2015-10-27
+  url: http://bit.ly/hydrainabox-dlf15
+- title: Hydra in a Box
+  presenters:
+    - Hannah Frost
+    - Mark Matienzo
+  event: Hydra Connect 2015
+  location: "Minneapolis, MN"
+  date: 2015-09-22
+  url: http://bit.ly/hydrainabox-hc2015
