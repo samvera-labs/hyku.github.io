@@ -1,0 +1,13 @@
+<!-- Header -->
+<header id="header" class="skel-layers-fixed">
+    <h1><a href="{{ site.baseurl }}/" class="site-title" >{{ site.title }}</a></h1>
+    <nav id="nav">
+        <ul>
+            <li><a href="{{ site.baseurl }}/">Home</a></li>
+            {% for navitem in site.data.navigation %}
+            <li><a href="{% if navitem.external %}{% else %}{{ site.baseurl }}/{% endif %}{{ navitem.url }}">{{ navitem.title }}</a></li>
+            {% endfor %}
+            <li><a href="http://bit.ly/hydrainabox-ideas" class="button special">Submit your ideas</a></li>
+        </ul>
+    </nav>
+</header>
