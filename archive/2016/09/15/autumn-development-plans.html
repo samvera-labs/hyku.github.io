@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html>
+    
+    <!--
+	Ion by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<head>
+
+    <title>Repository Development Sprinting Along in 2016</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Digital Public Library of America, Stanford University, and DuraSpace, with funding from the Institute of Museum and Library Services, are working together to build a next-generation repository solution
+" />
+    <meta name="keywords" content="" />
+    <!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/skel.min.js"></script>
+    <script src="/js/skel-layers.min.js"></script>
+    <script src="/js/init.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-71683084-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    <noscript>
+        <link rel="stylesheet" href="/css/skel.css" />
+        <link rel="stylesheet" href="/css/style.css" />
+        <link rel="stylesheet" href="/css/style-xlarge.css" />
+    </noscript>
+</head>
+
+
+	<body id="top">
+
+        <!-- Header -->
+<header id="header" class="skel-layers-fixed">
+    <h1><a href="/" class="site-title" >Hydra-In-a-Box</a></h1>
+    <nav id="nav">
+        <ul>
+            <li><a href="/">Home</a></li>
+            
+            <li><a href="/blog.html">Blog</a></li>
+            
+            <li><a href="/presentations.html">Presentations & Demos</a></li>
+            
+            <li><a href="/faq.html">FAQ</a></li>
+            
+            <li><a href="https://wiki.duraspace.org/display/samvera/Hydra-in-a-Box">Wiki</a></li>
+            
+            <li><a href="https://groups.google.com/group/hybox-info">Mailing List</a></li>
+            
+            <li><a href="mailto:hybox-contact@googlegroups.com">Contact Us</a></li>
+            
+            <li><a href="http://bit.ly/hydrainabox-ideas" class="button special">Submit your ideas</a></li>
+        </ul>
+    </nav>
+</header>
+
+        <div class="wrapper style1">
+    <article class="container">
+        <header class="major">
+            <h2 class="post-title">Repository Development Sprinting Along in 2016</h2>
+                <p class="post-meta">Sep 15, 2016 • Hannah Frost, Mike Giarlo</p>
+        </header>
+
+        <section class="post-content">
+            <p>After a brief hiatus following Open Repositories 2016, the Hydra-in-a-Box technical team is again hard at work developing the Hydra-in-a-Box repository application <sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>. The current work cycle runs from August through November of 2016, building on the infrastructure work, API support, and preliminary feature work undertaken in our first repository application work cycle (March-June 2016) <sup id="fnref:2"><a href="#fn:2" class="footnote">2</a></sup>. Our focus is now on the features and functionality that have surfaced in the requirements gathering process undertaken in the Design Phase <sup id="fnref:3"><a href="#fn:3" class="footnote">3</a></sup>. The end goal of this second work cycle is to beta-release a feature-full application in late autumn 2016 for product piloting by other institutions in late winter 2017 (details forthcoming!).</p>
+
+<h1 id="business-value">Business Value</h1>
+
+<p>The value of the work represented in the Feature List below — which we consider to be the <a href="https://en.wikipedia.org/wiki/Minimum_viable_product">Minimum Viable Product</a> for pilot usage — is summarized here. During the course of this work cycle, there are concrete plans in the Samvera community to develop fundamental features in <a href="/2016/04/05/leveraging_community_software.html">existing components</a> that are required in and directly intersect with the Hydra-in-a-Box repository application. This is a timely opportunity to engage with and complement this organic community activity:</p>
+
+<ul>
+  <li>Nested works/complex objects user interface - work done by Oregon State University, Princeton University, and Chemical Heritage Foundation (complete)</li>
+  <li><a href="https://wiki.duraspace.org/display/FF/Design+-+Import+-+Export">Import/export of Fedora objects</a> - planned work by the Fedora community, followed up by Princeton, Penn State, and others during a September 19th-23rd community sprint (in progress)</li>
+  <li>Mediated deposit - planned work by Oregon State University, who will be coordinating a community sprint <sup id="fnref:4"><a href="#fn:4" class="footnote">4</a></sup> from September through December (in progress)</li>
+  <li>Administrative dashboard - planned work hosted by Penn State University in late September (coming soon)</li>
+</ul>
+
+<p>There remain several key deliverables in our project to be addressed, and work on them is ripe for follow-up, <em>e.g.</em>, implementation of one or more integration points with DPLA to support effective harvesting/synchronization</p>
+
+<h1 id="feature-list">Feature List</h1>
+
+<p>The features we have yet to develop which we’ve prioritized for the minimum viable product are listed here in rough priority order:</p>
+
+<ul>
+  <li>Fedora performance and scaling</li>
+  <li>Metadata-related features
+    <ul>
+      <li>Support for, or cross-walking to, <a href="https://dp.la/info/developers/map/">DPLA MAPv4</a></li>
+      <li>Import/export templates</li>
+      <li>Configuration, extension, and batch editing in the user interface</li>
+      <li>Publishing for harvesters</li>
+    </ul>
+  </li>
+  <li>Mediated deposit for configurable, multi-step approval workflows</li>
+  <li>Administrative sets (otherwise known as “curated collections”) for organization of deposited works</li>
+  <li>Administrative dashboard
+    <ul>
+      <li>User/role management</li>
+      <li>Enhanced statistics</li>
+      <li>Reporting</li>
+      <li>Settings user interface
+        <ul>
+          <li>Enabling and disabling features via simple on/off buttons</li>
+          <li>Configuration of colors, banner image, and logo</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Ease of installation in non-AWS-based environments</li>
+  <li>API support for harvesting and depositing</li>
+</ul>
+
+<h1 id="team-resources-and-roles">Team Resources and Roles</h1>
+
+<p>Fortunately, the Hydra-in-a-Box technical team is not doing this work alone. The cast of characters for this work cycle include contributions from:</p>
+
+<ul>
+  <li>Audrey Altman (DPLA), UX Designer</li>
+  <li>Joe Atzberger (Stanford), Developer</li>
+  <li>Chris Beer (Stanford), Developer</li>
+  <li>Danny Bernstein (DuraSpace), Developer</li>
+  <li>Bill Branan (DuraSpace), Developer</li>
+  <li>Justin Coyne (Stanford), Developer</li>
+  <li>Tom Cramer (Stanford), Project Co-director</li>
+  <li>Tim Donohue (DuraSpace), Developer</li>
+  <li>Erin Fahy (Stanford), DevOps</li>
+  <li>Hannah Frost (Stanford), Product Manager</li>
+  <li>Gary Geisler (Stanford), UX Designer</li>
+  <li>Mike Giarlo (Stanford), Technical Lead &amp; liaison to related community sprints</li>
+  <li>Anna Headley (Chemical Heritage Foundation), Developer</li>
+  <li>Daniel Pierce (Indiana University), Developer</li>
+  <li>Andy Smith (Indiana University–Purdue University Indianapolis), Developer</li>
+</ul>
+
+<h1 id="stay-tuned">Stay Tuned</h1>
+
+<p>Just as we did during our first work cycle, we will be providing regular updates on progress made. We’re producing video-based demonstrations of our progress, and sharing those with various community mailing lists every two weeks. To follow those, you can also subscribe to <a href="https://www.youtube.com/watch?v=0U1-Y7zJxTs&amp;list=PLzfkco_SxElHyQ5teku8egXRxpnu_9nn_">our YouTube playlist</a>.</p>
+
+<p>Members of the team will be attending <a href="https://wiki.duraspace.org/display/samvera/Hydra+Connect+2016">Hydra Connect</a> and the <a href="https://www.diglib.org/forums/2016forum/">Digital Library Federation Forum</a> in the coming months, <a href="http://hydrainabox.samvera.org/presentations.html">presenting at both on their work and the Hydra-in-a-Box project</a>; we’d love to talk with you about the project if you have questions or feedback for us, and as always you are welcome to <a href="mailto:hybox-contact@googlegroups.com">contact us over email</a>.</p>
+
+<p>We’ve got a busy few months ahead, as you can tell. Thanks for following along; we’re super excited to be working with you all on this.</p>
+
+<div class="footnotes">
+    <ol>
+        <li id="fn:1">
+            <p>Think “Hydra-in-a-Box repository application” is a mouthful? We do too. <a href="/2016/08/25/hybox-names.html">Send name suggestions</a>! <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+        </li>
+        <li id="fn:2">
+            <p>Read more about <a href="/2016/07/11/july_update.html">progress made during our first work cycle</a>, including a demonstration video. <a href="#fnref:2" class="reversefootnote">&#8617;</a></p>
+        </li>
+        <li id="fn:3">
+            <p>Stay tuned for an upcoming series of posts about the outcomes of the Design Phase, and how they are informing the overall repository product vision and feature prioritization. <a href="#fnref:3" class="reversefootnote">&#8617;</a></p>
+        </li>
+        <li id="fn:4">
+            <p>A number of institutions are contributing to this work, including Indiana University, University of Cincinnati, California State University, Lafayette College, Stanford University, Penn State University, University of Michigan, and University of Alberta. <a href="#fnref:4" class="reversefootnote">&#8617;</a></p>
+        </li>
+    </ol>
+</div>
+
+        </section>
+        
+        <footer>
+            
+            <a href="/2016/09/08/improving-dpla-aggregation-tooling.html" class="float-left">&larr; Previous post</a> 
+            
+            <a href="/2016/09/23/back-to-school.html" class="float-right">Next post &rarr;</a> 
+        </footer>
+
+    </article>
+
+</div>
+
+
+        <!-- Footer -->
+<footer id="footer">
+    <div class="container">
+        <div class="row double">
+            <div class="6u">
+                <div class="row collapse-at-2">
+                    <div class="6u">
+                        <h3>Hydra-In-A-Box</h3>
+                        <ul class="alt">
+                            
+                            <li><a href="/blog.html">Blog</a></li>
+                            
+                            <li><a href="/presentations.html">Presentations & Demos</a></li>
+                            
+                            <li><a href="/faq.html">FAQ</a></li>
+                            
+                            <li><a href="https://wiki.duraspace.org/display/samvera/Hydra-in-a-Box">Wiki</a></li>
+                            
+                            <li><a href="https://groups.google.com/group/hybox-info">Mailing List</a></li>
+                            
+                            <li><a href="mailto:hybox-contact@googlegroups.com">Contact Us</a></li>
+                            
+                        </ul>
+                    </div>
+                    <div class="6u">
+                        <h3>Project Partners</h3>
+                        <ul class="alt">
+                            
+                            <li><a href="http://dp.la/">Digital Public Library of America</a></li>
+                            
+                            <li><a href="http://www.stanford.edu/">Stanford University</a></li>
+                            
+                            <li><a href="http://www.duraspace.org/">DuraSpace</a></li>
+                            
+                            <li><a href="http://www.imls.gov/">Institute of Museum and Library Services</a></li>
+                            
+                            <li><a href="https://samvera.org/">Samvera Community</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="6u">
+                <h2>Submit your ideas!</h2>
+                <p>We'd love to hear your ideas for features and functionality for Hydra-in-a-Box. To submit your idea, please use <a href="http://bit.ly/hydrainabox-ideas">our form</a>, or visit <a href="https://github.com/samvera-labs/hybox-ideas">our project on GitHub</a>!</p>
+                <ul class="icons">
+                    <li><a href="http://twitter.com/HydraInABox" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+                    <li><a href="https://github.com/hybox" class="icon fa-github"><span class="label">GitHub</span></a></li>
+                    <li><a href="/feed.xml" class="icon fa-rss"><span class="label">RSS Feed</span></a></li>
+                </ul>
+            </div>
+        </div>
+        <ul class="copyright">
+            <li>&copy; Hydra-In-a-Box. All rights reserved.</li>
+            <li>Design: <a href="http://templated.co">TEMPLATED</a></li>
+            <li>Jekyll Template: <a href="http://cloudcannon.com">Cloud Cannon</a></li>
+        </ul>
+    </div>
+</footer>
+
+
+    </body>
+
+</html>

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+    
+    <!--
+	Ion by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<head>
+
+    <title>Content Types and other News</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Digital Public Library of America, Stanford University, and DuraSpace, with funding from the Institute of Museum and Library Services, are working together to build a next-generation repository solution
+" />
+    <meta name="keywords" content="" />
+    <!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+    <script src="/js/jquery.min.js"></script>
+    <script src="/js/skel.min.js"></script>
+    <script src="/js/skel-layers.min.js"></script>
+    <script src="/js/init.js"></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-71683084-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+    <noscript>
+        <link rel="stylesheet" href="/css/skel.css" />
+        <link rel="stylesheet" href="/css/style.css" />
+        <link rel="stylesheet" href="/css/style-xlarge.css" />
+    </noscript>
+</head>
+
+
+	<body id="top">
+
+        <!-- Header -->
+<header id="header" class="skel-layers-fixed">
+    <h1><a href="/" class="site-title" >Hydra-In-a-Box</a></h1>
+    <nav id="nav">
+        <ul>
+            <li><a href="/">Home</a></li>
+            
+            <li><a href="/blog.html">Blog</a></li>
+            
+            <li><a href="/presentations.html">Presentations & Demos</a></li>
+            
+            <li><a href="/faq.html">FAQ</a></li>
+            
+            <li><a href="https://wiki.duraspace.org/display/samvera/Hydra-in-a-Box">Wiki</a></li>
+            
+            <li><a href="https://groups.google.com/group/hybox-info">Mailing List</a></li>
+            
+            <li><a href="mailto:hybox-contact@googlegroups.com">Contact Us</a></li>
+            
+            <li><a href="http://bit.ly/hydrainabox-ideas" class="button special">Submit your ideas</a></li>
+        </ul>
+    </nav>
+</header>
+
+        <div class="wrapper style1">
+    <article class="container">
+        <header class="major">
+            <h2 class="post-title">Content Types and other News</h2>
+                <p class="post-meta">Mar 7, 2016 • Hannah Frost</p>
+        </header>
+
+        <section class="post-content">
+            <h4 id="project-update">Project Update</h4>
+<p>The past month has been full, and we have plenty of news to report. Read on if you want to catch up on: the Intent to Merge announcement from DuraSpace and LYRASIS; how the Hydra-in-a-Box team is organizing and digging into our work; and decisions we have made about content types to be supported in the application.</p>
+
+<p>First, in case you missed it, DuraSpace and LYRASIS announced in late January their <a href="http://duraspace.org/node/2775">Intent to Merge</a>, which is big news for the library community! Given that DuraSpace is one of the Hydra-in-a-Box project partners, what does this news mean for our project? In short, nothing!  As explained on the <a href="http://duraspace.org/about/mergefaq#whatdoesitmean">Intent to Merge FAQ</a>, DuraSpace will continue to support the Hydra-in-a-Box project in addition to the five established open source software efforts that it already successfully stewards.</p>
+
+<p>In terms of project work, over the past couple of months, we formally organized our multi-institution team into a number of groups focused on distinct areas of work: product design, marketing and communications, data modeling, and business and technical issues related to the hosted service. The membership of these teams and their deliverables are articulated in a series of <a href="https://wiki.duraspace.org/display/samvera/Hydra-in-a-Box+Team+Charges">team charges posted on the wiki</a>. Check them out for more details.</p>
+
+<p>The team focused on product design – the Design Requirements and Specifications Team – has been at work since last summer. One question we have heard frequently during our discovery process is: What content types will the Hydra-in-a-Box application support? After careful research and consideration, we’ve settled on the answer. As a starting point, the application will support image-based content types and generic multi-file works. Why these? Read on to find out.</p>
+
+<h4 id="field-notes">Field Notes</h4>
+<p>Our environmental scan and design research shows that image-based content tops the list of content types managed in digital repositories. More surprising is the fact that images top the list of content types currently <em>not</em> managed in repositories (due to variety of limiting factors, such as insufficient staff or other resources), according to our survey results. Cultural heritage institutions with digital collections are brimming with images and are looking for a modern, full-featured repository application that can take advantage of the latest technologies – including <a href="http://iiif.io/">IIIF</a> – for managing, making discoverable and delivering image assets online. Hydra-in-a-Box is well positioned to meet this need.</p>
+
+<p><img src="/images/contentTypeCodeCo-occurence.png" /></p>
+
+<p>Image caption: <em>A partial screenshot of a visualization of our user interview data, after import and analysis using in a content analysis tool.</em></p>
+
+<p>Our data also shows that content types routinely generated and collected in the academic institution context – such as articles, theses, dissertations, grey literature, and research data – when considered together, form a substantial percentage of the content to be managed. These are the content types commonly stored in “institutional repository” solutions (as opposed to image, media, or other content-type-specific repositories).  <a href="http://sufia.io">Sufia</a>, the Samvera application on which Hydra-in-a-Box will be based, is well suited to this kind of content given its support for deposit of generic multi-file works.</p>
+
+<p>Between support for images and institutional repository-type content, Hydra-in-a-Box will cover a lot of repository territory. But we won’t stop there!  We undertook a close analysis of 31 various content types within the categories of images, text, media, geo, data and software, and have started to develop a set of detailed user scenarios. All of this analysis serves to highlight both the distinct and overlapping functional requirements for various content types from the perspective of both depositing and using repository content, and directly informs data modeling and feature prioritization for Hydra-in-a-Box.</p>
+
+<p>While we have not yet determined additional content types the application will be developed to support beyond images and generic multi-file works, and we know that we won’t be able to get to them all in our current grant period, the information we have gathered from the community clearly suggests several possible directions. After images, video and audio stand out as top content types currently managed in a repository (for those who have access to one) or not managed yet in repository (for those who don’t have one). What’s more, audiovisual media clearly represents a present and growing challenge. Numerous comments in the user interviews reflect increasing attention to audiovisual collections, the inadequate support for AV functionality in the available general purpose repository options, and the challenges associated with AV content due to volume, storage costs, and uncertainly about best practices.</p>
+
+<p>Look out for more information about content types and Hydra-in-a-Box to be posted in the coming weeks as the Product Design Phase winds down.</p>
+
+<h4 id="upcoming-presentations">Upcoming Presentations</h4>
+<p>Going to DPLAfest 2016 next month in Washington DC? Several members of the project team will be there. Please <a href="http://dp.la/info/get-involved/dplafest/april-2016/agenda/">come see Mark, Hannah and Gretchen</a> give a presentation on April 14, and be sure to say hello and let us know about your interest in Hydra-in-a-Box!</p>
+
+        </section>
+        
+        <footer>
+            
+            <a href="/2016/01/28/hydra-in-a-box_and_pcdm.html" class="float-left">&larr; Previous post</a> 
+            
+            <a href="/2016/04/01/sprint2_update.html" class="float-right">Next post &rarr;</a> 
+        </footer>
+
+    </article>
+
+</div>
+
+
+        <!-- Footer -->
+<footer id="footer">
+    <div class="container">
+        <div class="row double">
+            <div class="6u">
+                <div class="row collapse-at-2">
+                    <div class="6u">
+                        <h3>Hydra-In-A-Box</h3>
+                        <ul class="alt">
+                            
+                            <li><a href="/blog.html">Blog</a></li>
+                            
+                            <li><a href="/presentations.html">Presentations & Demos</a></li>
+                            
+                            <li><a href="/faq.html">FAQ</a></li>
+                            
+                            <li><a href="https://wiki.duraspace.org/display/samvera/Hydra-in-a-Box">Wiki</a></li>
+                            
+                            <li><a href="https://groups.google.com/group/hybox-info">Mailing List</a></li>
+                            
+                            <li><a href="mailto:hybox-contact@googlegroups.com">Contact Us</a></li>
+                            
+                        </ul>
+                    </div>
+                    <div class="6u">
+                        <h3>Project Partners</h3>
+                        <ul class="alt">
+                            
+                            <li><a href="http://dp.la/">Digital Public Library of America</a></li>
+                            
+                            <li><a href="http://www.stanford.edu/">Stanford University</a></li>
+                            
+                            <li><a href="http://www.duraspace.org/">DuraSpace</a></li>
+                            
+                            <li><a href="http://www.imls.gov/">Institute of Museum and Library Services</a></li>
+                            
+                            <li><a href="https://samvera.org/">Samvera Community</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="6u">
+                <h2>Submit your ideas!</h2>
+                <p>We'd love to hear your ideas for features and functionality for Hydra-in-a-Box. To submit your idea, please use <a href="http://bit.ly/hydrainabox-ideas">our form</a>, or visit <a href="https://github.com/samvera-labs/hybox-ideas">our project on GitHub</a>!</p>
+                <ul class="icons">
+                    <li><a href="http://twitter.com/HydraInABox" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+                    <li><a href="https://github.com/hybox" class="icon fa-github"><span class="label">GitHub</span></a></li>
+                    <li><a href="/feed.xml" class="icon fa-rss"><span class="label">RSS Feed</span></a></li>
+                </ul>
+            </div>
+        </div>
+        <ul class="copyright">
+            <li>&copy; Hydra-In-a-Box. All rights reserved.</li>
+            <li>Design: <a href="http://templated.co">TEMPLATED</a></li>
+            <li>Jekyll Template: <a href="http://cloudcannon.com">Cloud Cannon</a></li>
+        </ul>
+    </div>
+</footer>
+
+
+    </body>
+
+</html>

@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hydra-In-a-Box</title>
+    <description>Digital Public Library of America, Stanford University, and DuraSpace, with funding from the Institute of Museum and Library Services, are working together to build a next-generation repository solution
+</description>
+    <link>http://hydrainabox.samvera.org/</link>
+    <atom:link href="http://hydrainabox.samvera.org/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 24 Jul 2019 14:14:35 -0700</pubDate>
+    <lastBuildDate>Wed, 24 Jul 2019 14:14:35 -0700</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Progress and Future Plans for DPLA’s Aggregator</title>
+        <description>&lt;p&gt;As the repository-driven components of the Hydra-in-a-Box project wrap up, DPLA will continue work into the next year on the so-called ‘aggregator in a box’ piece, thanks to a no-cost extension of our IMLS grant. The goal for this work is not only to develop an improved aggregation system for DPLA, but one that can be generalized for broader use by our Hubs and other aggregators.&lt;/p&gt;
+
+&lt;p&gt;Our initial development of a new aggregation system, known internally as Ingestion2, was designed to add better Linked Data support and to improve software quality and consistency over DPLA’s original ingestion system. While Ingestion2 met those goals, in the process of bringing more of our providers on to this system we realized that there were fundamental scaling problems with the approaches taken, and therefore the system was no longer viable at DPLA. Continuing with the grant as written would have meant that we were generalizing a system that likely had no steward to maintain it and develop new features.&lt;/p&gt;
+
+&lt;p&gt;Instead, the DPLA tech team has embarked on developing a new ingestion system that is very fast, is proven to work at scale, is resumable after failure, and will support large-scale data analysis. We will use the extension to complete this work and make the project viable for other organizations to adopt. The new system, creatively dubbed “Ingestion3,” builds on what was learned from previous development.&lt;/p&gt;
+
+&lt;p&gt;One component of this new aggregation tool chain – the &lt;a href=&quot;https://github.com/dpla/ingestion3&quot;&gt;Spark OAI Harvester&lt;/a&gt; – has already been released. DPLA is engaging in preliminary conversations about collaboration and co-development of this system, and is engaging in outreach activities in the library developer community to evangelize this stack. Catch our Code4lib pre-conference workshop “Spark in the Dark” and conversations in #sparkinthedark on the code4lib Slack.&lt;/p&gt;
+
+&lt;p&gt;Also, we’ll be keeping the community posted as this work continues!&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 06 Dec 2017 00:00:00 -0800</pubDate>
+        <author>Michael Della Bitta and Kelcy Shepherd</author>
+        <link>http://hydrainabox.samvera.org/2017/12/06/aggregator-update.html</link>
+        <guid isPermaLink="true">http://hydrainabox.samvera.org/2017/12/06/aggregator-update.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hyku Thank You</title>
+        <description>&lt;p&gt;Now is a good time (of year) to extend our &lt;strong&gt;extreme appreciation and eternal gratitude&lt;/strong&gt; to all the individuals who contributed to the Hydra-in-a-Box project during our grant period, May 2015 - November 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;These are the people&lt;/strong&gt; who expressed requirements, wrote code, tested features, debugged bugs, assigned staff, approved travel requests, wrote tickets, designed mockups, questioned assumptions, merged pull requests, posted blogs, reflected experience, brainstormed names, gathered input, created documentation, improved documentation, analyzed survey data, and generally kept the faith. 
+&lt;strong&gt;THANK YOU, ALL 200 OF YOU!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Tom Adams, Ben Albritton, Julie Allinson, Audrey Altman, Rachel Appel, Ben Armintor, Joe Atzberger, Kelli Babcock, Mark Baggett, Greta Bahnemann, Kerry Bannen, Ryan Barland, Chris Beer, Molly Beisler, Danny Bernstein, Edward Bilodeau, Jose Blanco, Michael Bond, Bill Branan, Mark Breedlove, Amy Buckland, Nick Budak, Mark Bussey, Carolyn Caizzi, Jason Casden, David Chandek-Stark, Paul Clough, Dan Cohen, Carolyn Cole, Jenn Colt, Chris Colvard, Hector Correa, Dan Coughlin, Will Cowan, Esmé Cowles, Justin Coyne, Tom Cramer, Sean Crowe, Mark Dahl, Tristan Dahn, Michelle Dalmau, Stephen Davis, Michael Della Bitta, Bailey Diers, Michelle DiMeo, Tim Donohue, Jon Dunn, Marshall DuVal, Chip Dye, Jon Earley, Mike Eaton, Ryan Ehrfurth, Karen Estlund, Chatham Ewing, Erin Fahy, Erica Findley, Jeremy Floyd, Randall Floyd, Rachel Frick, Jeremy Friesen, Hannah Frost, Colin Fulton, Gary Geisler, Kent Gerber, Mike Giarlo, Heather Gilbert, Ben Goldman, Richard Green, Lisa Gregory, Colin Gross, Gretchen Gueguen, Josh Gum, Elizabeth Gushee, Mike Hagedon, Gill Hamilton, Debra Hanken-Kurtz, Juliet Hardesty, Christina Harlow, Quinn Hart, Anna Headley, David Henry, John Herbert, Lee Hibberd, Ellen Holte-Werle, Nick Homenda, Dan Horst, Ben Howell, Cole Hudson, Graham Hukill, Amy Hunsaker, Amanda Hurford, Arwen Hutt, Nabeela Jaffer, Adam Jazairi, Richard Johnson, Rick Johnson, Tom Johnson, Lisa Johnston, Paul Joseph, Braydon Justice, Michele Kimpton, Heather Greer Klein, Michael Klein, Tracey Kry, David Lacy, Gordon Leacock, Sunny Lee, Kirsten Leonard, Stuart Lewis, Jen Lindner, Nancy Lorimer, Karen Lovaas, Cathleen Lu, Katherine Lynch, Lauren Magnsuon, Jonathan Markow, Jesús Martín, Alberto Martinez, Mark Matienzo, Chris Mayo, Chuck McAndrew, Jeremy McWilliams, Lynn McRae, Margaret Mellinger, John Mignault, Erik Moore, Michele Morelli, Carol Minton Morris, Jill Morris, Tony Navarette, Anna Neatrour, Joshua Neds-Fox, Linda Newman, John O’Connor, Erin O’Meara, Johan Oberg, Trevor Owens, Kristi Palmer, Trey Pendragon, Chrissie Perella, Kim Pham, Cat Phan, Daniel Pierce, Emily Porter, Betsy Post, Brendan Quinn, Amanda Raab, Heidi Raatz, Gregorio Ramirez, Ellen Ramsey, Lynette Rayle, Kyle Reeves, Sean Reeves, Chrissy Rissmeyer, LaRita Robinson, Carrick Rogers, Jason Roy, Julie Rudder, Amy Rudersdorf, Jane Sandberg, Rob Sanderson, Muhammad Sarwar, Nicole Scalessa, Chuck Schoppet, Teresa Schultz, Kelcy Shepherd, Sarah Shreeves, Daniel Sifton, Mike Simpson, Andy Smith, Bronwen Sprout, Chris Stanton, Ryan Steans, Brandon Straley, Jon Stroop, Tony Stuart, MJ Suhonos, Nathan Tallman, Steve Taylor, Michael Tribone, Erin Tripp, Gail Truman, James Tuttle, Steve Van Tuyl, Paige Walker, Ann Washington, Sean Watkins, Adam Wead, Darren Weber, Andy Weidner, Evviva Weinraub, John Weise, Maria Whitaker, Kenny Whitebloom, Ryan Wick, Scott Williams, Eric Williams-Bergen, Drew Winget, Andrew Woods, Nicholas Woodward, Annie Wu, Hao Zeng, and Hui Zhang.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 21 Nov 2017 00:00:00 -0800</pubDate>
+        <author>The Hydra-in-a-Box Team</author>
+        <link>http://hydrainabox.samvera.org/2017/11/21/thanksgiving.html</link>
+        <guid isPermaLink="true">http://hydrainabox.samvera.org/2017/11/21/thanksgiving.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Future of Hyku</title>
+        <description>&lt;p&gt;This month, November 2017, marks the final month of the Hydra-in-a-Box project. Looking back from this milestone, it’s remarkable to recognize the work that went into a &lt;a href=&quot;https://wiki.duraspace.org/display/samvera/Hydra-in-a-Box+Project+Deliverables&quot;&gt;long list of accomplishments&lt;/a&gt; over the past two and a half years! Interest in the outcomes of our project has exceeded our expectations, and clearly there is a great deal of momentum and drive among the community to continue moving it forward. Read on to learn more about our plans to do just that and how you can help.&lt;/p&gt;
+
+&lt;p&gt;The most visible outcome of the project is &lt;a href=&quot;https://wiki.duraspace.org/display/hyku&quot;&gt;Hyku&lt;/a&gt;. Hyku is the first Samvera-based repository application made available with support for multi-tenancy and easy deployment to the cloud, a major advancement towards the goal of providing a general-purpose application that is well suited to hosted service providers. In addition to the new features that simplify repository deployment and configuration, a number of user-facing features were added to support a broader range of asset management workflows and content types and to present a compact, unified, modern design.&lt;/p&gt;
+
+&lt;p&gt;Another important component of our work is an implementation of ResourceSync in Hyku. Developed and tested in collaboration with our project partners at the Digital Public Library of America, Hyku provides an endpoint for harvesting repository resources using &lt;a href=&quot;http://www.openarchives.org/rs/1.1/resourcesync&quot;&gt;ResourceSync&lt;/a&gt;, an exciting new avenue for aggregators like DPLA.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://wiki.duraspace.org/display/hyku/Hyku+Product+Beta+Test&quot;&gt;product beta test&lt;/a&gt; in May-June 2017 followed by a hosted service pilot program over the summer of 2017. These tests resulted in concrete interest and plans on the part of a number of institutions to leverage Hyku: &lt;a href=&quot;https://www.ubiquitypress.com/site/repositories/&quot;&gt;Ubiquity Press&lt;/a&gt;, &lt;a href=&quot;http://www.palci.org/&quot;&gt;PALCI&lt;/a&gt;, &lt;a href=&quot;http://www.palni.org/&quot;&gt;PALNI&lt;/a&gt;, and &lt;a href=&quot;http://www.cosector.com/hyku/&quot;&gt;CoSector&lt;/a&gt;. Of particular note is the University of Houston’s &lt;a href=&quot;https://www.imls.gov/sites/default/files/grants/lg-70-17-0217-17/proposals/lg-70-17-0217-17-full-proposal-documents.pdf&quot;&gt;Bridge2Hyku project also funded by the IMLS&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Based on the results of these activities, we can confidently report that we achieved two primary project goals: (1) to provide a repository application that reduces barriers to adopting the Samvera repository framework for effective asset management and preservation for collections and content types of many kinds; and (2) to offer a cloud-based version of the application and to take steps toward a hosted service. We call it &lt;a href=&quot;https://hykudirect.com/&quot;&gt;HykuDirect&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The HykuDirect pilot was enormously useful to the project team. Feedback from the participants validated our understanding of the needs of the cultural heritage and research communities, and the direction we must continue to pursue: an open-source, community-based repository that supports a variety of content types and simplifies the process of implementing and managing the system for a variety of users and workflows.&lt;/p&gt;
+
+&lt;p&gt;We have &lt;a href=&quot;https://docs.google.com/document/d/1mpYLs2pqwKDCCxF0Kb-JTC4OjPLgmbJ6d1IBunxHqAw/edit#&quot;&gt;documented the gaps&lt;/a&gt; revealed through the pilots – gaps in user-facing features as well as the cloud-hosted infrastructure – and the &lt;a href=&quot;https://github.com/samvera-labs/hyku/issues&quot;&gt;Hyku development backlog&lt;/a&gt; has been updated accordingly. To help address these gaps, Stanford and DuraSpace are seeking a bridge grant for growing and sustaining Hyku through three primary activities:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Extend development of repository features in line with the gap analysis above&lt;/li&gt;
+  &lt;li&gt;Strengthen and validate deployment and support by a diverse network of service providers&lt;/li&gt;
+  &lt;li&gt;Work with the Samvera community on governance strategies and stewardship models that can sustain the Hyku product and related services into the future.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If the bridge grant application is successful, we plan to combine grant funds with resources pledged by community members interested in using and providing Hyku services. This mix of participation and ownership of the program aligns with the &lt;a href=&quot;http://duraspace.org/articles/3277&quot;&gt;popular proposal published by David W. Lewis&lt;/a&gt;, Dean of the IUPUI University Library, that suggests libraries contribute a percentage of their total budgets to support the infrastructure needed to create the open scholarly commons.&lt;/p&gt;
+
+&lt;p&gt;The project partners are heartened by the momentum building around the Hyku project, and we are grateful for the community support received so far. DuraSpace will continue to champion Hyku and is looking forward to working with the community to enhance the product in ways which will make a hosted service, like HykuDirect, possible.&lt;/p&gt;
+
+&lt;p&gt;The future of Hyku and HykuDirect is extremely promising, as the interest – and the clear need for this solution – has only grown over the past 30 months. If you’re interested in Hyku and its mission of lowering the barrier of entry to open-source digital repository services, please contact [info@duraspace.org] to discuss an investment of staff time or funds to the project. We look forward to working together with you!&lt;/p&gt;
+
+&lt;p&gt;To keep up-to-date on Hyku, please subscribe to the &lt;a href=&quot;https://visitor.r20.constantcontact.com/manage/optin?v=001sWE8kxl6Jonv51fMuI8_tdPQbHgtx__aRucQbOlEsYd2Jg1h06hZQTxMZ1C1yZeFLd5fuw3tZFa7XpPaWgcuYIOPv3ccQzNYlTgzKlzPNQk%3D&quot;&gt;DuraSpace Digest&lt;/a&gt;, selecting the option “Hydra-in-a-Box”. 
+Also &lt;a href=&quot;http://twitter.com/HykuRepo&quot;&gt;follow us on Twitter&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Nov 2017 00:00:00 -0800</pubDate>
+        <author>The Hydra-in-a-Box Project Team</author>
+        <link>http://hydrainabox.samvera.org/2017/11/06/hyku-future.html</link>
+        <guid isPermaLink="true">http://hydrainabox.samvera.org/2017/11/06/hyku-future.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hydra-in-a-Box Project Plans, Summer 2017</title>
+        <description>&lt;p&gt;With the milestone of Open Repositories 2017 now behind us, and as we head into the dog days of summer, the project team has been steadily working to lay out our plans for the coming weeks and into the fall 2017 season.&lt;/p&gt;
+
+&lt;p&gt;The technical team led by Stanford wrapped up the Hyku product beta test in late June. The focus of the test was on the various Hyku deployment options, the application itself, and the growing body of &lt;a href=&quot;https://wiki.duraspace.org/display/hyku/User+Documentation&quot;&gt;user documentation&lt;/a&gt;. A total of &lt;a href=&quot;https://wiki.duraspace.org/display/hyku/Hyku+Beta+Test+Participant+Registration&quot;&gt;60 individuals from 35 organizations&lt;/a&gt; participated in the beta, providing invaluable feedback (and actionable tickets!) based on their testing which is leading to significant improvements in Hyku’s user documentation and technical documentation. Overall we consider the test to be a big success! It was a chance for the community to get their hands on the application with some formal attention from the team and our product was improved as a result of all the activity.&lt;/p&gt;
+
+&lt;p&gt;For July and August, some members of the Stanford team remain on Hyku development and hosted service pilot support while others on the team are temporarily reassigned to other local products and projects in need of attention. Also we are involved in the &lt;a href=&quot;https://wiki.duraspace.org/display/samvera/Collection+Extensions+Development+Sprints&quot;&gt;Collection Extensions community sprints&lt;/a&gt; taking place in August; the outcomes of these sprints will improve collections in Hyku. In early September, the team will be reconstituted to kick off an effort to implement Hyku for use at Stanford Libraries! We are very excited to work with Hyku at home, continuing to develop features and functionality for the product along the way.&lt;/p&gt;
+
+&lt;p&gt;At DuraSpace, HykuDirect hosted service pilots are underway with &lt;a href=&quot;http://duraspace.org/news/hykudirect-pilot-program-and-hyku-beta-testing-underway&quot;&gt;all six pilot institutions&lt;/a&gt; actively adding items and users and testing the features of a fully hosted Hyku repository to see how they meet the needs of their institution. Initial responses have been positive, with pilot institution users noting that the interface has a “modern web” feel and is intuitive and easy to use without the need to consult documentation. Feedback from pilot institutions has helped the team identify and correct several issues and to prioritize development of features and workflow changes.&lt;/p&gt;
+
+&lt;p&gt;The HykuDirect team is planning for the production HykuDirect service, and hopes to make more information, including pricing information available in late 2017. Interested institutions can &lt;a href=&quot;https://hykudirect.com/&quot;&gt;sign up to receive this information&lt;/a&gt; as soon as it is available. The team is also working on establishing partnerships with other organizations interested in offering hosted Hyku services. If your organization is interested in providing hosted Hyku services, &lt;a href=&quot;mailto:contact@hykudirect.org&quot;&gt;please get in touch&lt;/a&gt;. The team strongly believes that a number of partners offering hosted Hyku with different added services and in different regions and contributing back to the community will strengthen Hyku and lead to better and more diverse service offerings.&lt;/p&gt;
+
+&lt;p&gt;The Technology Team at DPLA has completed major portions of design and prototyping of its third-generation aggregation system and is headed into a multi-month work cycle aimed at moving an initial list of 6 providers into production. Development is happening in the open on &lt;a href=&quot;https://github.com/dpla/ingestion3/&quot;&gt;GitHub&lt;/a&gt; and &lt;a href=&quot;https://digitalpubliclibraryofamerica.atlassian.net/browse/DT-1522?filter=-4&quot;&gt;JIRA&lt;/a&gt;. Design goals for the new system include being able to handle large providers such as NARA as they scale up, being able to rebuild from raw inputs regularly, and ease of integrations with other data workflows.&lt;/p&gt;
+
+&lt;p&gt;That’s the latest update from the Hydra-in-a-Box team. Expect more news in September!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 03 Aug 2017 00:00:00 -0700</pubDate>
+        <author>Bill Branan, Michael Della Bitta, Hannah Frost, Heather Greer Klein</author>
+        <link>http://hydrainabox.samvera.org/2017/08/03/summer.html</link>
+        <guid isPermaLink="true">http://hydrainabox.samvera.org/2017/08/03/summer.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Expanded Language Support in Hyku</title>
+        <description>&lt;p&gt;It’s the week of &lt;a href=&quot;https://or2017.net/&quot;&gt;Open Repositories 2017&lt;/a&gt;, the annual international conference for delegates from research libraries and other institutions around the globe to meet up (this year in lovely Bribane, Australia) and share their latest challenges and advances. We can’t think of a better time to highlight Hyku’s support for a growing number of languages in the application UI. We are up to seven!&lt;/p&gt;
+
+&lt;p&gt;With English as the starting point, we added Spanish, and soon thereafter Chinese, with the generous contributions of translations provided by native speakers in the Samvera community. Then we got a tip about &lt;a href=&quot;https://github.com/glebm/i18n-tasks&quot;&gt;i18n-tasks&lt;/a&gt;. This Ruby gem identifies any missing terms from languages specified in an application’s locale configuration file and then fills in the gaps with values obtained from Google Translate. This simple process makes it amazingly easy to add support for multiple languages. With this enhancement to Hyku, it is now possible to also read the UI in German, French, Italian, and Portuguese.&lt;/p&gt;
+
+&lt;p&gt;The results have been pretty accurate, though on occasion the Google Translate results are a little off, not perfectly reflecting the nuance of meaning in certain UI terms (e.g., “home” page is a starting point, not where the “house” is located :), so a pass for quality control is necessary. We are grateful to those members of our community who have pitched in with corrections as they came across instances of mistranslation. (Keep them coming!)&lt;/p&gt;
+
+&lt;p&gt;Expanded language support is fundamental for any repository service today that aims to serve a global audience of users. With the power of web services like Google Translate, language barriers can dissolve!&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 26 Jun 2017 00:00:00 -0700</pubDate>
+        <author>Hannah Frost,  Michael J. Giarlo</author>
+        <link>http://hydrainabox.samvera.org/2017/06/26/i18n.html</link>
+        <guid isPermaLink="true">http://hydrainabox.samvera.org/2017/06/26/i18n.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>ResourceSync for Harvesting Content from Hyku to DPLA</title>
+        <description>&lt;p&gt;A detailed report on the Hydra-in-a-Box team’s recent testing of a new standard for synchronization of content resources across the web.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-resourcesync-and-why-is-the-hydra-in-a-box-team-interested-in-it&quot;&gt;What is ResourceSync and why is the Hydra-in-a-Box team interested in it?&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.openarchives.org/rs/toc&quot;&gt;ResourceSync&lt;/a&gt; is a self-describing set of capabilities designed to keep content in sync between a provider and consumer of that content. The capabilities of a ResourceSync endpoint can be adapted to meet specific community requirements as it extends the &lt;a href=&quot;https://www.sitemaps.org&quot;&gt;Sitemaps protocol&lt;/a&gt; used by Google and other search engines.&lt;/p&gt;
+
+&lt;p&gt;The project team has been motivated to leverage ResourceSync as an alternative, or next-generation, approach to harvesting repository metadata by aggregators. ResourceSync is attractive because it utilizes native qualities of the web to solve the problem of keeping web-published resources in sync as inevitable changes occur. Nothing special is required beyond publication of a sitemap and change lists, leveraging timestamps to indicate that changes have been published and when they occurred. We anticipated that it’d be an improvement over the &lt;a href=&quot;https://www.openarchives.org/pmh/&quot;&gt;Open Archives Initiative Protocol for Metadata Harvesting (OAI-PMH)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote cite=&quot;http://www.openarchives.org/rs/1.1/resourcesync&quot;&gt;Repositories of scholarly articles and data have typically shared metadata via OAI-PMH. As these repositories are rearchitected to become resource- or web-centric, the ResourceSync Framework enables sharing of both metadata and content with aggregators and commodity web search engines alike. (from &lt;a href=&quot;http://www.openarchives.org/rs/1.1/resourcesync&quot;&gt;ResourceSync Framework Specification, ANSI/NISO Z39.99-2017&lt;/a&gt;)&lt;/blockquote&gt;
+
+&lt;p&gt;Furthermore, because it requires sitemaps, ResourceSync has the added advantage of facilitating search engine optimization (SEO) at the same time.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-was-it-tested&quot;&gt;How was it tested?&lt;/h3&gt;
+
+&lt;p&gt;Using the demo instance of &lt;a href=&quot;https://wiki.duraspace.org/display/hyku/Hyku+Documentation&quot;&gt;Hyku&lt;/a&gt; hosted via Amazon Web Services, the team stood up a ResourceSync endpoint and populated it with 1,888 resources. They also implemented two ResourceSync capabilities, &lt;a href=&quot;https://www.openarchives.org/rs/1.1/resourcesync#ResourceList&quot;&gt;Resource List&lt;/a&gt; and &lt;a href=&quot;https://www.openarchives.org/rs/1.1/resourcesync#ChangeList&quot;&gt;Change List&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dp.la/&quot;&gt;DPLA&lt;/a&gt; built a ResourceSync harvester in its &lt;a href=&quot;https://github.com/dpla/ingestion3&quot;&gt;ingestion3&lt;/a&gt; system to evaluate the Resource List capability. The harvester was written in Scala and used the &lt;a href=&quot;https://spark.apache.org/&quot;&gt;Apache Spark&lt;/a&gt; framework to distribute processing of HTTP requests. The distribution of HTTP requests was critical because getting the content from each resource requires a separate HTTP request, one per resource.&lt;/p&gt;
+
+&lt;p&gt;The Resource List capability follows the Sitemaps protocol and can contain up to 50,000 resource URLs; the HTTP round-trip cost of harvesting so many resources one at a time can quickly add up if the requests are not parallelized. Requests were distributed as much as possible to increase the performance of the harvester. DPLA found that a high number of workers and relatively low partition size (the number of records sent to each node) resulted in the fastest processing time. However, simply increasing the number of workers for a significantly larger source that has dozens or hundreds of lists, or tens of millions of resources, might look more like a denial of service attack than a harvest.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Test #&lt;/td&gt;
+      &lt;td&gt;Number of workers in local Spark cluster&lt;/td&gt;
+      &lt;td&gt;Number of items harvested&lt;/td&gt;
+      &lt;td&gt;Partition size&lt;/td&gt;
+      &lt;td&gt;Runtime (mm:ss)&lt;/td&gt;
+      &lt;td&gt;Records per second&lt;/td&gt;
+      &lt;td&gt;Records per hour (extrapolated)&lt;/td&gt;
+      &lt;td&gt;Records per day (extrapolated)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;1,888&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;15:00&lt;/td&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;7,200&lt;/td&gt;
+      &lt;td&gt;172,800&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;2&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;1,888&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;5:40&lt;/td&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;21,600&lt;/td&gt;
+      &lt;td&gt;518,400&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;3&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;1,888&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;3:26&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+      &lt;td&gt;32,400&lt;/td&gt;
+      &lt;td&gt;777,600&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;8&lt;/td&gt;
+      &lt;td&gt;1,888&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;2:36&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;43,200&lt;/td&gt;
+      &lt;td&gt;1,036,800&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;5&lt;/td&gt;
+      &lt;td&gt;32&lt;/td&gt;
+      &lt;td&gt;1,888&lt;/td&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;2:36&lt;/td&gt;
+      &lt;td&gt;12&lt;/td&gt;
+      &lt;td&gt;43,200&lt;/td&gt;
+      &lt;td&gt;1,036,800&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;6&lt;/td&gt;
+      &lt;td&gt;32&lt;/td&gt;
+      &lt;td&gt;1,888&lt;/td&gt;
+      &lt;td&gt;50&lt;/td&gt;
+      &lt;td&gt;1:21&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+      &lt;td&gt;82,800&lt;/td&gt;
+      &lt;td&gt;1,987,200&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;32&lt;/td&gt;
+      &lt;td&gt;1,888&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;1:16&lt;/td&gt;
+      &lt;td&gt;24&lt;/td&gt;
+      &lt;td&gt;86,400&lt;/td&gt;
+      &lt;td&gt;2,073,800&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The most effective way to improve performance was to increase the number of workers. However, there was no performance increase between tests 4 and 5 because there is no benefit to having more workers than partitions. At that point the best option is to reduce the partition size so more of the HTTP work may be distributed over the nodes, resulting in a velocity of up to 86,000 resources per hour. DPLA’s goal is to complete a full harvest of a provider in less than 24 hours. A harvest velocity of 80,000 records per hour – using e.g., ResourceSync in such a distributed fashion – means that even DPLA’s largest content providers could be fully harvested in less than 24 hours.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-did-the-team-learn&quot;&gt;What did the team learn?&lt;/h3&gt;
+
+&lt;p&gt;While harvesting resources by requesting content from Resource Lists or Change Lists is relatively straightforward and easy to implement, it was clear from the initial testing that without distributing the work over many nodes this would not work at DPLA scale; HTTP requests are expensive and 7,200 records per hour is not an acceptable velocity.&lt;/p&gt;
+
+&lt;p&gt;Additionally, DPLA’s ingestion architecture is built around fully synchronizing a provider’s data during every ingest. While the ResourceSync Change List capability enables frequent, partial updates a possibility, DPLA would prefer to use the Resource Dump capability rather than Change Lists, Resource Lists or Change Dumps primarily for consistency’s sake; DPLA will still need to support full syncs for tasks such as onboarding a new provider or pulling in a bulk update, e.g., adding standardized rights statements.&lt;/p&gt;
+
+&lt;p&gt;The Resource Dump capability provides the content of resources as a compressed download, reducing the number of HTTP requests such that only one request is necessary to retrieve the contents of a number of resources. One of the drawbacks to this approach is the loss of &lt;a href=&quot;https://www.w3.org/Protocols/rfc2616/rfc2616-sec12.html&quot;&gt;HTTP Content Negotiation&lt;/a&gt;, a feature of both Resource Lists and Change Lists. Content negotiation is however not required by DPLA as long as the formats and schemas in a harvest are consistent.&lt;/p&gt;
+
+&lt;p&gt;In the course of this testing, we recognized an important benefit of a community-based, open source platform like Hyku adopted within a network of content providers geared toward aggregation: DPLA can contribute code to the Hyku implementation of ResourceSync directly, making improvements and updates as necessary, and thus not be reliant on resource-constrained hubs to make such changes. DPLA can maintain the platform’s publishing protocol for the benefit of the entire network.&lt;/p&gt;
+
+&lt;p&gt;There is great potential for ResourceSync within the digital library community. For aggregators like DPLA, the most exciting affordance of ResourceSync is the ability to harvest content with minimal HTTP overhead. In an ideal world, DPLA would be harvesting resources that natively support the &lt;a href=&quot;https://dp.la/info/developers/map/&quot;&gt;DPLA Metadata Application Profile&lt;/a&gt; from Hyku-based ResourceSync endpoints using the Resource Dump capability. This is goal shared by the Hydra-in-a-Box team and the broader DPLA and Samvera communities – and one they will continue to work towards.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 22 Jun 2017 00:00:00 -0700</pubDate>
+        <author>Hannah Frost,  Michael J. Giarlo, Mark Matienzo, Scott Williams</author>
+        <link>http://hydrainabox.samvera.org/2017/06/22/resourcesync.html</link>
+        <guid isPermaLink="true">http://hydrainabox.samvera.org/2017/06/22/resourcesync.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Easy IR</title>
+        <description>&lt;p&gt;&lt;em&gt;Sixth and final post in a series highlighting the personas produced in our design process, each representing a typical user of Hydra-in-a-Box and embodying a number of use cases that our repository product, now in development, or our hosted service, now in planning, aim to fulfill.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Faustino Lund, a researcher and professor at a large public university, is the central character of this persona. For an institutional repository service to be useful, Faustino has a few basic criteria: it must offer an easy to use, efficient way to add and describe a variety of research files, and an easy way to see updated statistics and usage analytics so he can quickly know the reach of his work.&lt;/p&gt;
+
+&lt;figure class=&quot;image fit persona&quot;&gt;
+  &lt;a href=&quot;/images/Hydra-in-a-Box_Persona-Researcher.png&quot;&gt;
+    &lt;img src=&quot;/images/Hydra-in-a-Box_Persona-Researcher.png&quot; alt=&quot;Researcher/Professor persona&quot; /&gt;
+  &lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Faustino is looking for the ability to upload multiple files of different types to create a single work with nested components. This kind of heterogeneous, structured content is not uncommon for academic scholars who produce works in the course of teaching and conducting research. Hyku, the Hydra-in-a-Box repository, supports this need, offering a great deal of flexibility in the way that files can be arranged within a work. It is also possible to upload, create, and describe a batch of works in a streamlined workflow.&lt;/p&gt;
+
+&lt;p&gt;Busy professors and researchers appreciate the ability to enable members of their team or department staff to manage repository activities on the behalf of themselves or other collaborators. Hyku supports this need in several ways. It is possible to designate another user as a proxy depositor, so they can effectively create works associated with you (and your user account). Hyku also is developing underlying support for user groups, which will make it more efficient to allow multiple users to engage with repository activities, including having the ability for a single user to proxy for a group representing multiple other users.  Also, in the context of an administrative set, the set’s creator can designate another user as a co-manager of the set, which helps to distribute and share the privileges and responsibilities of set management.&lt;/p&gt;
+
+&lt;p&gt;The persona scenario mentions a few features that support research publications in particular: delayed release (embargo), &lt;a href=&quot;https://orcid.org/&quot;&gt;ORCID&lt;/a&gt;, and &lt;a href=&quot;https://www.doi.org/&quot;&gt;DOI&lt;/a&gt;. It is not uncommon for researchers to delay the release of their research or publications due to a contractual arrangement with a publisher or simply to extend the time period before their intellectual property is published and accessible by others. Hyku provides the ability to apply an embargo at the time a work is deposited, a practical benefit to the researcher so that they can deposit at their convenience and schedule the publication date as needed.&lt;/p&gt;
+
+&lt;p&gt;Also in the persona, we read how Faustino enters his personal ORCID with his deposited conference paper so that it can be associated with his research profile across networked scholarly communication indexes and databases. Currently Hyku allows a user to enter their ORCID on their profile page; future work may involve integration with the ORCID service infrastructure so that the associations between the researcher and their works in Hyku are made automatically. Hyku also has a metadata field where a depositor can enter an existing DOI link for a publication, a good practice for ensuring related resources are linked; leveraging that DOI link to auto-populate the other Hyku metadata fields with values from the source object relies on a technical integration to be added to Hyku in the future.&lt;/p&gt;
+
+&lt;p&gt;Reporting features are needed by all users of a repository, but they can serve a particularly critical role in the circumstances of faculty researchers who need to reliably quantify and demonstrate the impact of their research through its use by others. The Hydra-in-a-Box team has implemented some basic improvements to the statistics and reporting features in Hyku, and has improved how this data is displayed in the administrative dashboard. Additional interface design work is underway now to further enhance reports, and with the integration of Google Analytics, work which is already prioritized and specified for a future work cycle, the reporting features will achieve a greater level of completeness, detail and utility.&lt;/p&gt;
+
+&lt;p&gt;(You can download
+&lt;a href=&quot;https://wiki.duraspace.org/download/attachments/76841397/Hydra-in-a-Box%20Personas.pdf?version=3&amp;amp;modificationDate=1465782652119&amp;amp;api=v2&quot;&gt;all six of the Hydra-in-a-Box personas&lt;/a&gt;
+and other
+&lt;a href=&quot;https://wiki.duraspace.org/display/samvera/Hydra-in-a-Box+Design+Documents&quot;&gt;project design documents&lt;/a&gt;
+from the DuraSpace wiki.)&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 May 2017 00:00:00 -0700</pubDate>
+        <author>Hannah Frost, Gary Geisler</author>
+        <link>http://hydrainabox.samvera.org/2017/05/22/easy-ir.html</link>
+        <guid isPermaLink="true">http://hydrainabox.samvera.org/2017/05/22/easy-ir.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hyku Beta Available -- How to Get Involved</title>
+        <description>&lt;p&gt;The Hydra-in-a-Box team is happy to announce the imminent availability of the Beta release of Hyku 1.0.0, the minimum viable product towards which we have been working for the past year. Hyku is a &lt;a href=&quot;http://hyr.ax/&quot;&gt;Hyrax&lt;/a&gt;-based application that adds:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Multi-tenancy, or the ability to host multiple repository “slices” within the same application, each with its own users, objects, and look &amp;amp; feel&lt;/li&gt;
+  &lt;li&gt;Support for the &lt;a href=&quot;http://iiif.io/&quot;&gt;IIIF&lt;/a&gt; Image and Presentation APIs&lt;/li&gt;
+  &lt;li&gt;Rich object viewing via the &lt;a href=&quot;http://universalviewer.io/&quot;&gt;Universal Viewer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Two bundled work types: Image and Generic Work&lt;/li&gt;
+  &lt;li&gt;and more!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now that the Beta is available, we’d like to solicit the Samvera community’s assistance with testing the software to improve Hyku and to help define and prioritize our work for the remainder of the year. The Beta test is an opportunity to deploy the Hyku repository locally or in the cloud (Amazon Web Services), to “kick the tires,” and to give the Hydra-in-a-Box team critical feedback on Hyku &amp;amp; its deployment options. We sought to develop a Samvera-based repository that is easy to install, easy to maintain, and easy to configure, and your feedback is crucial for helping us gauge how much progress we’ve made on these goals.&lt;/p&gt;
+
+&lt;p&gt;The Beta test is slated to run from Monday, May 15th through Friday, June 23rd.&lt;/p&gt;
+
+&lt;p&gt;Here’s what is required of participants:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wiki.duraspace.org/display/hyku/Hyku+Beta+Test+Participant+Registration&quot;&gt;Register your interest&lt;/a&gt; in participating in the Beta test&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wiki.duraspace.org/display/hyku/Hyku+Product+Beta+Test&quot;&gt;Install Hyku&lt;/a&gt; via one of three methods&lt;/li&gt;
+  &lt;li&gt;Use the Hyku application — you may find this &lt;a href=&quot;https://docs.google.com/document/d/1WUyYdbU4rCs6ZHRmhe2_SXvHSbv1fJ2M6Un32yck3s4/edit#heading=h.cn6rmmuv4enu&quot;&gt;list of workflows&lt;/a&gt; handy&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wiki.duraspace.org/display/hyku/Hyku+Beta+Test+-+Communications+and+Support&quot;&gt;Submit bugs and overall feedback&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We will be holding weekly office hours to support and interact with folks who participate in the Beta test. Details of our weekly calls are available on &lt;a href=&quot;https://wiki.duraspace.org/display/hyku/Hyku+Beta+Test+-+Communications+and+Support&quot;&gt;our documentation wiki&lt;/a&gt;. To discuss Beta test results and engage throughout the Beta period, we have set up the #hyku-beta channel in the &lt;a href=&quot;https://wiki.duraspace.org/pages/viewpage.action?pageId=43910187#Getintouch!-Slack&quot;&gt;Samvera Slack team&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For more information, please see our developing &lt;a href=&quot;https://wiki.duraspace.org/display/hyku&quot;&gt;Hyku documentation wiki&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 May 2017 00:00:00 -0700</pubDate>
+        <author>Mike Giarlo, Hannah Frost</author>
+        <link>http://hydrainabox.samvera.org/2017/05/03/hyku-beta-available.html</link>
+        <guid isPermaLink="true">http://hydrainabox.samvera.org/2017/05/03/hyku-beta-available.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Value of Opportunity</title>
+        <description>&lt;p&gt;At this moment in time, the Digital Public Library of America,
+Stanford University Libraries, and DuraSpace wish to express again our
+deep gratitude to the &lt;a href=&quot;https://www.imls.gov/&quot;&gt;Institute of
+Museum and Library Services (IMLS)&lt;/a&gt; for generously funding the
+Hydra-in-a-Box project. As recipients of the largest single IMLS award
+to date ($2M), these three diverse but mission-aligned organizations
+are able to create Hyku, a turnkey and open source software repository
+solution, now under development. Hyku will help institutions of all
+kinds and sizes by making it easier and more affordable to collect,
+manage, publish, and preserve digital content such as publications,
+data and research outputs, and all manner of media collections. Our
+work on this technology aims to serve humanity by promoting research
+and learning in all disciplines, in all languages, in all corners of
+the globe. Preserving and promoting access to information makes
+possible new discoveries in the sciences, the humanities, and the
+arts. It is through such discoveries that we as a civilization attain
+a greater understanding of the human condition, that we are able to
+cure disease and prolong lives, that we can protect the vitality of
+our planet, that we build cultural awareness and harmony, enriching
+our collective experience.&lt;/p&gt;
+
+&lt;p&gt;The potential to create and discover starts with opportunity. Thank
+you, IMLS, for providing us — and so many other beneficiaries of your
+programs — the opportunity to play a participatory role in this truly
+human endeavor.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Mar 2017 00:00:00 -0700</pubDate>
+        <author>The whole Hydra-in-a-Box Team</author>
+        <link>http://hydrainabox.samvera.org/2017/03/21/the-value-of-imls.html</link>
+        <guid isPermaLink="true">http://hydrainabox.samvera.org/2017/03/21/the-value-of-imls.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Metadata Mettle</title>
+        <description>&lt;p&gt;&lt;em&gt;Fifth in a series of blog posts highlighting the personas produced in our design process, each representing a typical user of Hydra-in-a-Box and embodying a number of use cases that our repository product, now in development, or our hosted service, now in planning, aim to fulfill.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Here we meet Boyd Gordon, “the metadata guy” at a large independent research institution. He needs repository features that make the multitude of metadata tasks on his plate much faster and less cumbersome. When the Hydra-in-a-Box design team talks with seasoned digital content folks, metadata tooling and workflows are always a rich topic of discussion. Everyone has ideas for how to improve metadata work! Those conversations directly inform this persona and our ongoing plans for sophisticated metadata support in Hyku, the Hydra-in-a-Box repository.&lt;/p&gt;
+
+&lt;figure class=&quot;image fit persona&quot;&gt;
+  &lt;a href=&quot;/images/Hydra-in-a-Box_Persona-Metadata-Specialist.png&quot;&gt;
+    &lt;img src=&quot;/images/Hydra-in-a-Box_Persona-Metadata-Specialist.png&quot; alt=&quot;Metadata Specialist persona&quot; /&gt;
+  &lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This persona document describes a number of features that will be available in the earliest releases of Hyku. For example, it is possible to import metadata records (and associated content files) in bulk via a CSV file, critical functionality for any organization looking to migrate existing collections of digital content to Hyku. Also with the newly developed, configurable multi-step workflow, it is possible for repository administrators and collection managers to review metadata that has been entered by non-specialists, making any necessary corrections along the way or sending the records back for corrections before being deposited and published in the repository.&lt;/p&gt;
+
+&lt;p&gt;After the release of our “minimum viable product” in just a few weeks, the development team will start to implement our design for bulk review and editing of metadata. This set of features will be extremely useful for those who need to review multiple records at a time, to quickly see if values are entered consistently and completely, and to make corrections across a set of records on a single screen.&lt;/p&gt;
+
+&lt;p&gt;Support for descriptive metadata record templates that are tailored to suit different content types is highly desirable. Capturing the distinctive aspects of resources – e.g., the geographic coverage of social science data sets, the duration of audiovisual media, or the coordinates of maps – benefits the discovery process for researchers searching across large collections. The Hyku repository is introducing variations in the default metadata template for deposited works, starting with image-based works. Over time we plan to add to the number of content-specific metadata templates and to augment the fields based on specific feedback from early users of Hyku.&lt;/p&gt;
+
+&lt;p&gt;The persona scenario also describes how it will be possible to configure controlled vocabularies, to leverage locally developed lists or external standards and linked data for use in Hyku metadata forms. This functionality is fundamental to streamlining the creation and processing of metadata so that it is high-quality and ready to take advantage of linked data. There exist already some promising efforts in the Samvera community that support this functionality, and we expect to integrate and contribute to them for broad benefit.&lt;/p&gt;
+
+&lt;p&gt;Coming soon: the final installment of this blog series, where we will see how the Hydra-in-a-Box repository at an academic institution supports the day-to-day work of a professor/researcher. (You can download
+&lt;a href=&quot;https://wiki.duraspace.org/download/attachments/76841397/Hydra-in-a-Box%20Personas.pdf?version=3&amp;amp;modificationDate=1465782652119&amp;amp;api=v2&quot;&gt;all six of the Hydra-in-a-Box personas&lt;/a&gt;
+and other
+&lt;a href=&quot;https://wiki.duraspace.org/display/samvera/Hydra-in-a-Box+Design+Documents&quot;&gt;project design documents&lt;/a&gt;
+from the DuraSpace wiki.)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Feb 2017 00:00:00 -0800</pubDate>
+        <author>Hannah Frost, Gary Geisler</author>
+        <link>http://hydrainabox.samvera.org/2017/02/21/metadata-mettle.html</link>
+        <guid isPermaLink="true">http://hydrainabox.samvera.org/2017/02/21/metadata-mettle.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
