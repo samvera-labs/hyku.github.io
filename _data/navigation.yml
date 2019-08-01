@@ -8,13 +8,13 @@
   url: faq.html
 
 - title: Wiki
-  url: https://wiki.duraspace.org/display/samvera/Hydra-in-a-Box
+  url: https://wiki.duraspace.org/display/hyku
   external: true
 
 - title: Mailing List
-  url: https://groups.google.com/group/hybox-info
+  url: https://groups.google.com/group/samvera-hyku
   external: true
 
 - title: Contact Us
-  url: mailto:hybox-contact@googlegroups.com
+  url: mailto:hyku-ideas@googlegroups.com
   external: true
