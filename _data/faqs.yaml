@@ -33,7 +33,7 @@
 - question: >-
     What descriptive metadata elements and standards does Hyku support?
   answer: >-
-    Hyku currently supports a basic metadata element set for a generic work, the same set of Dublin Core elements that ships with Hyrax. We are augmenting this set in two significant ways. First, we are ensuring that it is compatible with the <a href="http://dp.la/about/map/">DPLA Metadata Application Profile v4</a> so that works in Hyku can be readily published for harvesting by DPLA and its hubs without further mapping. Second, as we extend support for specific content types in Hyku, we will add specific elements relevant and appropriate to those content types. <br/><br>As for crosswalking your metadata (which might be in XML) into a format that Hyku will ultimately use (such as RDF), we're actively talking to interested institutions in the Samvera community on migration and mapping tools to support this work. Updates and announcements about this work will be posted here. In the meantime, we’d love to hear from you about your metadata questions. Please share your suggestions or questions about crosswalking/mapping strategies <a href="mailto :hybox-contact@googlegroups.com">by email</a>.
+    Hyku currently supports a basic metadata element set for a generic work, the same set of Dublin Core elements that ships with Hyrax. We are augmenting this set in two significant ways. First, we are ensuring that it is compatible with the <a href="http://dp.la/about/map/">DPLA Metadata Application Profile v4</a> so that works in Hyku can be readily published for harvesting by DPLA and its hubs without further mapping. Second, as we extend support for specific content types in Hyku, we will add specific elements relevant and appropriate to those content types. <br/><br>As for crosswalking your metadata (which might be in XML) into a format that Hyku will ultimately use (such as RDF), we're actively talking to interested institutions in the Samvera community on migration and mapping tools to support this work. Updates and announcements about this work will be posted here. In the meantime, we’d love to hear from you about your metadata questions. Please share your suggestions or questions about crosswalking/mapping strategies <a href="mailto :hyku-ideas@googlegroups.com">by email</a>.
 - question: >-
     How customizable and configurable is Hyku?
   answer: >-
@@ -63,14 +63,14 @@
   answer: >-
     Yes, Hyku allows uploaded content and descriptive metadata to be versioned. Each version persists in Fedora 4, and records who created the new version and when it was created. All versions are exposed to the depositor of the content and others who have been granted "edit" access. Only the most recent version is exposed to the public. (More robust version control tools may be implemented in a later development phase based on community requirements and priorities.)
 - question: >-
-    How can I stay informed of Hydra-in-a-Box project updates?
+    How can I stay informed of Hyku project updates?
   answer: >-
-    Join the <a href="https://groups.google.com/forum/#!forum/hybox-info">HyBox Info Mailing List</a> and follow <a href="https://twitter.com/HydraInABox">@HydraInABox</a> on Twitter for all the latest project news. General announcements and monthly updates are posted to the <a href="https://groups.google.com/forum/#!forum/samvera-community">Samvera Community List</a>; subscription to this group is open to all. Technical discussions occur as needed on the <a href="https://groups.google.com/forum/#!forum/samvera-tech">Samvera Tech List</a>; subscription to this group is also open to all. Increasingly technical discussions occur on the Samvera Slack team. All are welcome to join us on Slack, and it's easy to <a href="http://slack.samvera.org/">request an invitation</a>.
+    Join the <a href="https://groups.google.com/forum/#!forum/samvera-hyku">Hyku Mailing List</a> and follow <a href="https://twitter.com/HykuRepo">@HykuRepo</a> on Twitter for all the latest project news. General announcements and monthly updates are posted to the <a href="https://groups.google.com/forum/#!forum/samvera-community">Samvera Community List</a>; subscription to this group is open to all. Technical discussions occur as needed on the <a href="https://groups.google.com/forum/#!forum/samvera-tech">Samvera Tech List</a>; subscription to this group is also open to all. Increasingly technical discussions occur on the Samvera Slack team. All are welcome to join us on Slack, and it's easy to <a href="http://slack.samvera.org/">request an invitation</a>.
 - question: >-
-    How can I get involved in the Hydra-in-a-Box project?
+    How can I get involved in the Hyku project?
   answer: >-
-    Let’s talk! <a href="mailto:hybox-contact@googlegroups.com">Contact the Hydra-in-a-Box project team</a> and let us know where your interests lie.
+    Let’s talk! <a href="mailto:hyku-ideas@googlegroups.com">Contact the Hyku project team</a> and let us know where your interests lie.
 - question: >-
     I have an idea for a feature or functionality that Hyku should support. Do you want to hear it?
   answer: >-
-    Yes, we do! Please <a href="mailto:hybox-contact@googlegroups.com">send us an email</a>. If you have a GitHub account, feel free to submit your ideas directly in the <a href="https://github.com/samvera-labs/hyku/issues/new">Hyku repo</a>.
+    Yes, we do! Please <a href="mailto:hyku-ideas@googlegroups.com">send us an email</a>. If you have a GitHub account, feel free to submit your ideas directly in the <a href="https://github.com/samvera-labs/hyku/issues/new">Hyku repo</a>.
