@@ -33,7 +33,7 @@
 - question: >-
     What descriptive metadata elements and standards does Hyku support?
   answer: >-
-    Hyku currently supports a basic metadata element set for a generic work, the same set of Dublin Core elements that ships with Hyrax. We are augmenting this set in two significant ways. First, we are ensuring that it is compatible with the <a href="http://dp.la/about/map/">DPLA Metadata Application Profile v4</a> so that works in Hyku can be readily published for harvesting by DPLA and its hubs without further mapping. Second, as we extend support for specific content types in Hyku, we will add specific elements relevant and appropriate to those content types. <br/><br>As for crosswalking your metadata (which might be in XML) into a format that Hyku will ultimately use (such as RDF), we're actively talking to interested institutions in the Samvera community on migration and mapping tools to support this work. Updates and announcements about this work will be posted here. In the meantime, we’d love to hear from you about your metadata questions. Please share your suggestions or questions about crosswalking/mapping strategies <a href="mailto :hyku-ideas@googlegroups.com">by email</a>.
+    Hyku currently supports a basic metadata element set for a generic work, the same set of Dublin Core elements that ships with Hyrax. We are augmenting this set in two significant ways. First, we are ensuring that it is compatible with the <a href="http://dp.la/about/map/">DPLA Metadata Application Profile v4</a> so that works in Hyku can be readily published for harvesting by DPLA and its hubs without further mapping. Second, as we extend support for specific content types in Hyku, we will add specific elements relevant and appropriate to those content types. <br/><br>As for crosswalking your metadata (which might be in XML) into a format that Hyku will ultimately use (such as RDF), we're actively talking to interested institutions in the Samvera community on migration and mapping tools to support this work. Updates and announcements about this work will be posted here. In the meantime, we’d love to hear from you about your metadata questions. Please share your suggestions or questions about crosswalking/mapping strategies <a href="mailto :samvera-webcontact@googlegroups.com">by email</a>.
 - question: >-
     How customizable and configurable is Hyku?
   answer: >-
@@ -69,8 +69,8 @@
 - question: >-
     How can I get involved in the Hyku project?
   answer: >-
-    Let’s talk! <a href="mailto:hyku-ideas@googlegroups.com">Contact the Hyku project team</a> and let us know where your interests lie.
+    Let’s talk! <a href="mailto:samvera-webcontact@googlegroups.com">Contact the Hyku project team</a> and let us know where your interests lie.
 - question: >-
     I have an idea for a feature or functionality that Hyku should support. Do you want to hear it?
   answer: >-
-    Yes, we do! Please <a href="mailto:hyku-ideas@googlegroups.com">send us an email</a>. If you have a GitHub account, feel free to submit your ideas directly in the <a href="https://github.com/samvera-labs/hyku/issues/new">Hyku repo</a>.
+    Yes, we do! Please <a href="mailto:samvera-webcontact@googlegroups.com">send us an email</a>. If you have a GitHub account, feel free to submit your ideas directly in the <a href="https://github.com/samvera-labs/hyku/issues/new">Hyku repo</a>.
