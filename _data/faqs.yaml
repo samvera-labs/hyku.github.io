@@ -14,10 +14,10 @@
     What is the relationship between Hyku, Hyrax, and Sufia?
   answer: >-
     Hyku is based directly on Hyrax. Hyku had been based on Sufia until November 2016 when Sufia and CurationConcerns were consolidated into one gem named Hyrax. From Hyku's perspective, there has been no functional change since Sufia was consolidated into Hyrax.<br/><br/>Read more about the relationship between Hyku and Hyrax on the <a href="https://wiki.duraspace.org/pages/viewpage.action?pageId=85530575">Hyku documentation wiki</a> and on the <a href="http://samvera.github.io/hyku-vs-hyrax.html">Hyrax Developer Knowledge Base</a>.
-- question: >-
-    Who will provide hosting services for Hyku?
-  answer: >-
-    DuraSpace plans to offer a hosted Hyku service named HykuDirect in partnership with a network of service providers. More details about this service, including expected features and timeline, can be found on the <a href="https://hykudirect.com/">HykuDirect website</a>.
+# - question: >-
+#     Who will provide hosting services for Hyku?
+#   answer: >-
+#     DuraSpace plans to offer a hosted Hyku service named HykuDirect in partnership with a network of service providers. More details about this service, including expected features and timeline, can be found on the <a href="https://hykudirect.com/">HykuDirect website</a>.
 - question: >-
     I am interested in starting to use Samvera at my institution. If I start now, will I be able to migrate to Hyku when it is released? Or should I hold off and wait?
   answer: >-
