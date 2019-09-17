@@ -14,10 +14,14 @@
     What is the relationship between Hyku, Hyrax, and Sufia?
   answer: >-
     Hyku is based directly on Hyrax. Hyku had been based on Sufia until November 2016 when Sufia and CurationConcerns were consolidated into one gem named Hyrax. From Hyku's perspective, there has been no functional change since Sufia was consolidated into Hyrax.<br/><br/>Read more about the relationship between Hyku and Hyrax on the <a href="https://wiki.duraspace.org/pages/viewpage.action?pageId=85530575">Hyku documentation wiki</a> and on the <a href="http://samvera.github.io/hyku-vs-hyrax.html">Hyrax Developer Knowledge Base</a>.
-# - question: >-
-#     Who will provide hosting services for Hyku?
-#   answer: >-
-#     DuraSpace plans to offer a hosted Hyku service named HykuDirect in partnership with a network of service providers. More details about this service, including expected features and timeline, can be found on the <a href="https://hykudirect.com/">HykuDirect website</a>.
+- question: >-
+    Are there any providers of Hyku hosted solutions?
+  answer: >-
+    <p>As of 2019, there are two Hyku hosted service solutions set to launch before the end of the year, offered by <a href="https://www.notch8.com/" target="_blank">Notch8</a> and <a href="https://www.ubiquitypress.com/" target="_blank">Ubiquity Press</a>. Each has a site for their hosted solution where you can learn more and sign up for a demo.</p>
+    <ul>
+    <li><a href="https://www.u-repo.io/" target="_blank">Ubiquity Repositories</a>, offered by Ubiquity Press, invites registration for a demo or pilot.</li>
+    <li><a href="https://www.hykuup.com/" target="_blank">HykuUP</a>, offered by Notch8, is accepting signups for beta access, including a free trial period.</li>
+    </ul>
 - question: >-
     I am interested in starting to use Samvera at my institution. If I start now, will I be able to migrate to Hyku when it is released? Or should I hold off and wait?
   answer: >-
