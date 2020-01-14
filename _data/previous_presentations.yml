@@ -1,4 +1,25 @@
-- title: Hydra-in-a-Box Project Final Report
+- title: Implementing Custom Theme Solutions in Hyku
+  presenters:
+    - Lea Ann Bradford
+  event: Samvera Virtual Connect 2019
+  location: "Online"
+  date: 2019-04-24
+  url:  https://drive.google.com/open?id=12YRgJJXVEBx-kjYY7vn_9Prr3R-qamol
+- title: How Multi-Tenant Works in Hyku
+  presenters:
+    - Rob Kaufman
+  event: Samvera Virtual Connect 2019
+  location: "Online"
+  date: 2019-04-23
+  url:  https://drive.google.com/open?id=1HmSloac5KuLDYkN7dsXwD19WdjF7SXMU
+- title: Hyku - A Multi-Tenant Ready-To-Ship Samvera Implementation
+  presenters:
+    - Kevin Kochanski
+  event: Samvera Virtual Connect 2019
+  location: "Online"
+  date: 2019-04-23
+  url:  https://drive.google.com/open?id=1fN3BGpY8lc9J_lJ7P7d7htYYxZC8v3dh
+- title: Hydra-in-a-Box Final Project Report
   presenters:
     - Tom Cramer
     - Hannah Frost
@@ -8,14 +29,6 @@
   location: "Washington, DC"
   date: 2017-12-12
   url:  https://docs.google.com/presentation/d/1kDCJlu67yNuRAvAG9WsX-tLGFulafZd_sc3rbExb__I/edit#slide=id.p
-- title: Hydra-in-a-Box Project Final Report
-  presenters:
-    - Hannah Frost
-    - Michael Giarlo
-  event: Samvera Connect 2017
-  location: "Evanston, Illinois"
-  date: 2017-11-07
-  url:  https://docs.google.com/presentation/d/1VqznaDWQl5uG_rcDfm7uk4GLGDgWtptM4EwyAWJskVk/edit#slide=id.p
 - title: Hydra-in-a-Box Project Final Report
   presenters:
     - Hannah Frost
@@ -66,9 +79,9 @@
   presenters:
     - Hannah Frost
   event: Powering Linked Data and Hosted Solutions with Fedora
-  location: online webinar  
+  location: online webinar
   date: 2017-05-15
-  url: http://duraspace.org/node/3181 
+  url: http://duraspace.org/node/3181
 - title: Hydra-in-a-Box Project Update
   presenters:
     - Michael Della Bitta
@@ -76,14 +89,14 @@
   event: DPLAfest 2017
   location: "Chicago, Illinois"
   date: 2017-04-21
-  url:  http://bit.ly/hybox-dplafest2017-update 
+  url:  http://bit.ly/hybox-dplafest2017-update
 - title: Unwrapping Hydra-in-a-Box
   presenters:
     - Hannah Frost
   event: Code4Lib 2017
   location: "Los Angeles, California"
   date: 2017-03-07
-  url:  http://bit.ly/unwrapping-hybox 
+  url:  http://bit.ly/unwrapping-hybox
 - title: Hydra-in-a-Box Project Update
   presenters:
     - Hannah Frost
