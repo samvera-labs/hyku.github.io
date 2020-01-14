@@ -12,14 +12,14 @@
   location: "Online"
   date: 2019-04-23
   url:  https://drive.google.com/open?id=1HmSloac5KuLDYkN7dsXwD19WdjF7SXMU
-- title: Implementing Custom Theme Solutions in Hyku
+- title: Hyku - A Multi-Tenant Ready-To-Ship Samvera Implementation
   presenters:
     - Kevin Kochanski
   event: Samvera Virtual Connect 2019
   location: "Online"
   date: 2019-04-23
   url:  https://drive.google.com/open?id=1fN3BGpY8lc9J_lJ7P7d7htYYxZC8v3dh
-- title: Hyku: A Multi-Tenant, Ready-To-Ship Samvera Implementation
+- title: Hydra-in-a-Box Final Project Report
   presenters:
     - Tom Cramer
     - Hannah Frost
@@ -29,14 +29,6 @@
   location: "Washington, DC"
   date: 2017-12-12
   url:  https://docs.google.com/presentation/d/1kDCJlu67yNuRAvAG9WsX-tLGFulafZd_sc3rbExb__I/edit#slide=id.p
-- title: Hydra-in-a-Box Project Final Report
-  presenters:
-    - Hannah Frost
-    - Michael Giarlo
-  event: Samvera Connect 2017
-  location: "Evanston, Illinois"
-  date: 2017-11-07
-  url:  https://docs.google.com/presentation/d/1VqznaDWQl5uG_rcDfm7uk4GLGDgWtptM4EwyAWJskVk/edit#slide=id.p
 - title: Hydra-in-a-Box Project Final Report
   presenters:
     - Hannah Frost
