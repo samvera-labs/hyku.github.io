@@ -1,10 +1,45 @@
-- title: Hyrax & Hyku User Workshop
+- title: Hyrax & Hyku Workshop - A Hands-On User Side Intro
   presenters:
-    - Julie Allinson
-    - Rob Kaufman
-    - Kelly Chess
+    - George Wheeler
+    - Crystal Richardson
     - Kevin Kochanski
-  event: Notch8
-  location: "San Diego, California"
-  date: 2020-08-06
-  url:  https://events.com/r/en_US/tickets/notch8s-hyrax--hyku-user-workshop-san-diego-august-777261
+  event: Samvera Connect 2020
+  location: "Online"
+  date: 2020-10-22
+  url:
+- title: Ubiquity Repositories Architecture - Highly Scalable Hyku in the Cloud
+  presenters:
+    - Francesco De Virgilo
+    - Chris Colvard
+  event: Samvera Connect 2020
+  location: "Online"
+  date: 2020-10-26
+  url:
+- title: Your Vote Matters! Community Input for Advancing Hyku Feature Prioritization
+  presenters:
+    - Ilkay Holt
+    - Ellen Ramsey
+    - Brian Hole
+  event: Samvera Connect 2020
+  location: "Online"
+  date: 2020-10-26
+  url:
+- title: Supporting Collaboration in Hyku - Workflows, Tools, and Design
+  presenters:
+    - Gretchen Gueguen
+    - Amanda Hurford
+  event: Samvera Connect 2020
+  location: "Online"
+  date: 2020-10-26
+  url:
+- title: Why Hyku?  A Use Case Panel
+  presenters:
+    - Sara Gould
+    - Gretchen Gueguen
+    - Brian Hole
+    - Amanda Hurford
+    - Kevin Kochanski
+  event: Samvera Connect 2020
+  location: "Online"
+  date: 2020-10-26
+  url:
