@@ -1,12 +1,3 @@
-- title: Hyrax & Hyku Workshop - A Hands-On User Side Intro
-  presenters:
-    - George Wheeler
-    - Crystal Richardson
-    - Kevin Kochanski
-  event: Samvera Connect 2020
-  location: "Online"
-  date: 2020-10-22
-  url:
 - title: Ubiquity Repositories Architecture - Highly Scalable Hyku in the Cloud
   presenters:
     - Francesco De Virgilo
