@@ -1,36 +1,19 @@
-- title: Your Vote Matters! Community Input for Advancing Hyku Feature Prioritization
-  presenters:
-    - Ilkay Holt
-    - Ellen Ramsey
-    - Brian Hole
-  event: Samvera Connect 2020
-  location: "Online"
-  date: 2020-10-28
-  url:
-- title: Supporting Collaboration in Hyku - Workflows, Tools, and Design
-  presenters:
-    - Gretchen Gueguen
-    - Amanda Hurford
-  event: Samvera Connect 2020
-  location: "Online"
-  date: 2020-10-28
-  url:
-- title: Why Hyku?  A Use Case Panel
+
+- title: Shared repositories - building (multi-tenancy) repository services at the British Library
   presenters:
     - Sara Gould
-    - Gretchen Gueguen
-    - Brian Hole
-    - Amanda Hurford
-    - Kevin Kochanski
-  event: Samvera Connect 2020
+    - Jenny Basford
+    - Torsten Reimer
+  event: Open Repositories 2021
   location: "Online"
-  date: 2020-10-28
+  date: 2021-06-09
   url:
-- title: Ubiquity Repositories Architecture - Highly Scalable Hyku in the Cloud
+- title: Advancing Hyku Project Update
   presenters:
-    - Francesco De Virgilo
-    - Chris Colvard
-  event: Samvera Connect 2020
+    - Ellen Ramsey
+    - Brian Hole
+    - Ilkay Holt
+  event: Open Respositories 2021
   location: "Online"
-  date: 2020-10-29
-  url:
+  date: 2021-06-09
+  url: 
