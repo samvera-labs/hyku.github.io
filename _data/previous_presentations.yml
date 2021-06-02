@@ -1,3 +1,63 @@
+- title: Hyku Product Owner Update
+  presenters:
+    - Kevin Kochanski
+  event: Samvera Virtual Connect 2021
+  location: "Online"
+  date: 2021-04-21
+  url: https://www.youtube.com/watch?list=PLvnoImgmm7CelSXXzrseH39Oex3rZQnFY&t=5401&v=F3G1IIZwGNc&feature=youtu.be
+- title: Expanding Hyku’s Versatility with Custom Themes
+  presenters:
+    - Lea Ann Bradford
+    - April Rieger
+  event: Samvera Virtual Connect 2021
+  location: "Online"
+  date: 2021-04-21
+  url: https://www.youtube.com/watch?v=F3G1IIZwGNc&list=PLvnoImgmm7CelSXXzrseH39Oex3rZQnFY&t=8530s
+- title: Advancing Hyku Year Two Project Update
+  presenters:
+    - Ellen Ramsey
+    - Brian Hole
+    - Ilkay Holt
+  event: Samvera Virtual Connect 2021
+  location: "Online"
+  date: 2021-04-21
+  url: https://www.youtube.com/watch?list=PLvnoImgmm7CelSXXzrseH39Oex3rZQnFY&t=9527&v=F3G1IIZwGNc&feature=youtu.be
+- title: Your Vote Matters! Community Input for Advancing Hyku Feature Prioritization
+  presenters:
+    - Ilkay Holt
+    - Ellen Ramsey
+    - Brian Hole
+  event: Samvera Connect 2020
+  location: "Online"
+  date: 2020-10-28
+  url:
+- title: Supporting Collaboration in Hyku - Workflows, Tools, and Design
+  presenters:
+    - Gretchen Gueguen
+    - Amanda Hurford
+  event: Samvera Connect 2020
+  location: "Online"
+  date: 2020-10-28
+  url:
+- title: Why Hyku?  A Use Case Panel
+  presenters:
+    - Sara Gould
+    - Gretchen Gueguen
+    - Brian Hole
+    - Amanda Hurford
+    - Kevin Kochanski
+  event: Samvera Connect 2020
+  location: "Online"
+  date: 2020-10-28
+  url:
+- title: Ubiquity Repositories Architecture - Highly Scalable Hyku in the Cloud
+  presenters:
+    - Francesco De Virgilo
+    - Chris Colvard
+  event: Samvera Connect 2020
+  location: "Online"
+  date: 2020-10-29
+  url:
 - title: Hyrax & Hyku Workshop - A Hands-On User Side Intro
   presenters:
     - George Wheeler
