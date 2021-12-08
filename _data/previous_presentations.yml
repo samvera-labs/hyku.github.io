@@ -1,3 +1,28 @@
+- title: Hyku Projects Panel - In the Community and In the Wild
+  presenters:
+    - Amanda Hurford
+    - Ilkay Holt
+    - Jenny Basford
+    - Sara Gould
+    - Ellen Ramsey
+  event: Samvera Connect 2021
+  location: "Online"
+  date: 2021-10-20
+  url: https://www.youtube.com/watch?v=p41nIPzsKtA&list=PLvnoImgmm7CfOUNg9YJQmCdfI1oIzkfCr&index=13
+- title: Bulkrax - Getting Data In and Out of Repositories
+  presenters:
+    - Rob Kaufman
+  event: Samvera Connect 2021
+  location: "Online"
+  date: 2021-10-20
+  url: https://www.youtube.com/watch?v=ykk5hQ0xSAc&list=PLvnoImgmm7CfOUNg9YJQmCdfI1oIzkfCr&index=21
+- title: Hyku Update Fall 2021
+  presenters:
+    - Kevin Kochanski
+  event: Samvera Connect 2021
+  location: "Online"
+  date: 2021-10-19
+  url: https://www.youtube.com/watch?v=iyErcILUjZ8&list=PLvnoImgmm7CfOUNg9YJQmCdfI1oIzkfCr&index=11
 - title: Shared repositories - building (multi-tenancy) repository services at the British Library
   presenters:
     - Sara Gould
