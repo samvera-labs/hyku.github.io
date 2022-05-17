@@ -1,0 +1,25 @@
+---
+layout: post
+title: Hyku 4.0 Released
+author: Rob Kaufman and Kevin Kochanski
+---
+
+The Hyku community is proud to announce the release of [Hyku 4.0](https://github.com/samvera/hyku/releases/tag/v4.0.0), a robust release and one that is truly the result of collaboration in the Samvera Community spirit.  This major release includes many new features, such as:
+
+<b>Cross-Site Search.</b> Incorporating work from Advancing Hyku, Hyku now has the ability to utilize a search-only tenant to bring in search results across multiple selected tenants in a unified interface.  You can see a basic demo of this feature [here](https://share.getcloudapp.com/RBunGOYP).
+
+<b>Theming Enhancements.</b> Hyku now ships with 3 custom home page themes, 2 custom show page themes and 2 search results themes, as well as the groundwork for adopters to create and contribute their own themes. Additional theming enhancements include feature flippers for Featured Researcher, Recently Uploaded, Featured Works, and Share Your Work, allowing the ability to disable those features easily.
+
+<b>Featured Collections.</b> While Hyku previously only offered the ability to feature works on the tenant homepage, it now offers the optional ability (behind a feature flipper) to feature collections as well.
+
+<b>Settings and Configuration Overhaul.</b> This new consolidates and modernizes the approach to configuration settings, which were previously available in too many places and with too many names. All “global” configuration now happens in ENV vars, which have been updated to match Hyrax and Rails standards wherever possible.
+
+This release gets a major number bump because it requires adopters to update their deployment process to account for new ENV vars (which more closely align to Hyrax) as well as the removal of config/settings.yml and config/settings/{env}.yml files.
+
+The impressive roster of features included in this release are sponsored by multiple partners and projects.  This includes work from the Advancing Hyku Grant, with the involvement of Ubiquity Press, University of Virginia, and the British Library; the Hyku for Consortia project from PALNI and PALCI, under their IMLS grant; and additional work from Software Services by Scientist.com in partnership with the British Library, the US Department of Transportation, and others.
+
+Don’t get too comfortable!  The next big hurdle for Hyku is to release the long-running Hyrax 3 upgrade branch, which will bring analytics features from Hyrax, as well as a future Rails upgrade.
+
+See the [full release notes](https://github.com/samvera/hyku/releases/tag/v4.0.0) for more details and contribution attribution.
+
+<b>What can Hyku 4.0 enable for your project? Interested in learning more about Hyku?</b> Join us for the next [Hyku Interest Group call](https://samvera.atlassian.net/wiki/spaces/samvera/pages/419533203/Samvera+Hyku+Interest+Group)! All are welcome to attend. You can also ask questions in the Hyku channel on the [Samvera Slack workspace](https://samvera.atlassian.net/wiki/spaces/samvera/pages/405211682/Get+in+touch#Getintouch!-Slack), and check out videos of Hyku in action on the [Hyku YouTube channel](https://www.youtube.com/channel/UC_m1Ovaaasa2ksyGaqz5i0Q/featured).
