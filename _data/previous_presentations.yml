@@ -1,10 +1,17 @@
+- title: Hyku - Collaboration and Commitment in an Open Source Data Repository
+  presenters:
+    - Kevin Kochanski
+  event: Medical Institutional Repositories in Libraries (MIRL) Symposium
+  location: "Online"
+  date: 2022-11-12
+  url:
 - title: Hyku Community Update 2022
   presenters:
     - Kevin Kochanski
   event: Samvera Connect Online 2022
   location: "Online"
   date: 2022-10-25
-  url:
+  url: https://youtu.be/wTvLSnUuQZM?list=PLvnoImgmm7Cd41zxbO5XxpCYT_nM1hbZY&t=1580
 - title: Hyku for Consortia - Removing Barriers to Adoption Project Update
   presenters:
     - Amanda Hurford
@@ -15,7 +22,7 @@
   event: Samvera Connect Online 2022
   location: "Online"
   date: 2022-10-25
-  url:
+  url: https://www.youtube.com/watch?v=sImUzfuRAC8&list=PLvnoImgmm7Cd41zxbO5XxpCYT_nM1hbZY&index=12
 - title: We Advanced Hyku, and You Can, Too
   presenters:
     - Ellen Ramsey
