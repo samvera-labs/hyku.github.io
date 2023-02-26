@@ -1,0 +1,29 @@
+---
+layout: post
+title: Out Now - Hyku 5.0
+author: Rob Kaufman and Kevin Kochanski
+---
+
+We're excited to announce that [Hyku 5.0](https://github.com/samvera/hyku/releases) has been released!  This one took awhile because it has lots to offer:
+
+<b>Groups with Roles.</b> Sponsored by the [Hyku for Consortia](https://www.hykuforconsortia.org/) project, their work to enhance Groups is now in base Hyku.  In addition to fixing general Groups functionality in Hyku, roles assigned to a group will also be given to users in that group, each with different permissions.  Some created roles include:
+  <li>Admin
+  <li>Collection Editor</li>
+  <li>Collection Manager</li>
+  <li>Collection Reader</li>
+  <li>User Manager</li>
+  <li>User Reader</li>
+  <li>Work Editor</li>
+  <li>Work Depositor</li>
+<br />
+<p><b>Analytics.</b>  Sponsored by the Oregon Digital project and brought into Hyku by Hyku for Consortia, Hyku can now be linked to a Google Analytics account and provides exportable reporting on content and usage in a customizable date range.</p>
+
+<p><b>Hyrax Upgrade.</b> Hyku has been updated from Hyrax 2.9.6 to 3.5.0.</p>
+
+<p><b>Favicon.</b>  The Appearance dashboard now offers the option to upload a custom favicon per tenant.</p>
+
+<p><b>Graph Nested Indexer.</b>  Administrators can now use Solr graph queries to skip having to do nested indexing. This speeds up adding and editing items to large collections substantially.</p>
+
+<p>See the <a href="https://github.com/samvera/hyku/releases">latest release notes</a> for more details, including quite a long list of bug fixes and dependency updates.</p>
+
+<p><b>What does Hyku 5.0 mean for your project? Interested in learning more about Hyku?</b> Join us for the next <a href="https://samvera.atlassian.net/wiki/spaces/samvera/pages/419533203/Samvera+Hyku+Interest+Group">Hyku Interest Group call</a>! We welcome users, developers, and anyone just curious to listen in and learn more about this solution. Join <a href="https://samvera.atlassian.net/wiki/spaces/samvera/pages/405211682/Get+in+touch#Getintouch!-Slack">Samvera Slack workspace</a>, and check out videos of Hyku in action on the <a href="https://www.youtube.com/channel/UC_m1Ovaaasa2ksyGaqz5i0Q/featured">Hyku YouTube channel</a>.</p>
