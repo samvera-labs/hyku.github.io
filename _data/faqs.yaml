@@ -17,10 +17,10 @@
 - question: >-
     Are there any providers of Hyku hosted solutions?
   answer: >-
-    <p>Currently there are two Hyku-based hosted service solutions, offered by <a href="https://www.notch8.com/" target="_blank">Notch8</a> and <a href="https://www.ubiquitypress.com/" target="_blank">Ubiquity Press</a>. Each provider has a site for their hosted solution where you can learn more and sign up for a demo.</p>
+    <p>Currently there are two Hyku-based hosted service solutions, offered by <a href="https://softserv.scientist.com/service/samvera-repository-solutions" target="_blank">SoftServ by Scientist.com</a> and <a href="https://www.ubiquitypress.com/" target="_blank">Ubiquity Press</a>. Each provider has a site for their hosted solution where you can learn more and sign up for a demo.</p>
     <ul>
     <li><a href="https://www.u-repo.io/" target="_blank">Ubiquity Repositories</a>, offered by Ubiquity Press, invites registration for a demo or pilot.</li>
-    <li><a href="https://www.hykuup.com/" target="_blank">HykuUP</a>, offered by Notch8, is accepting signups for beta access, including a free trial period.</li>
+    <li><a href="https://www.hykuup.com/" target="_blank">HykuUP</a>, offered by SoftServ, is accepting signups for beta access, including a free trial period.</li>
     </ul>
 - question: >-
     Is the Hyku repository a single "Hydra head"? Or is it several "heads"? How does the analogy apply?
